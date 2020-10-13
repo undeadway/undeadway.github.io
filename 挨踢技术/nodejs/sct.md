@@ -1,3 +1,10 @@
+# 介绍
+
+通过 nodejs 调用 linux shell 脚本
+
+### JS 代码
+
+```
 console.log("sct.js start");
 
 const { exec  } = require('child_process');
@@ -16,3 +23,15 @@ exec(shellCmd, (err, stdout, stderr) => {
   }
   console.log("sct.js done.");
 });
+```
+
+### Shell 代码
+
+```
+npm run sct-"$1"
+echo "sct-$1 done"
+npm run sct-"$2"
+echo "sct-$2 done"
+npm run sct-"$3"
+echo "sct-$3 done"
+```
