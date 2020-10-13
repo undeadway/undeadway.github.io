@@ -1,0 +1,17 @@
+#!/bin/bash
+inputPara=$1
+pkgingTime=$(date +%s)
+folderNames=("racoam" "siteoam" "nodeoam")
+
+mkdir ./out/
+
+for folderName in ${folderNames[@]}
+do
+    if [[ $folderName == $inputPara || $inputPara == "" ]]
+    then
+        cd ${folderName}/
+        tar -zcvf ${folderName}_${pkgingTime}_gucwei.tgz opt/ etc/
+        mv ${folderName}_${pkgingTime}_gucwei.tgz ../out/
+        cd ..
+    fi
+done
