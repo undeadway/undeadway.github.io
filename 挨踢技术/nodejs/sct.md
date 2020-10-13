@@ -7,11 +7,10 @@
 ```
 console.log("sct.js start");
 
-const { exec  } = require('child_process');
-let fs = require("fs");
-let shellCmd = "./sct.sh ";
-let _ = require("underscore");
-let stdOutFile = "./sct/std-out";
+const { exec } = require('child_process');
+const fs = require("fs");
+const shellCmd = "./sct.sh ";
+const stdOutFile = "./sct/std-out";
 
 shellCmd += ["index","scf","cmeditor"].join(" ");
 exec(shellCmd, (err, stdout, stderr) => {
