@@ -45,5 +45,5 @@ git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(
 
 # 参考资料
 
-[https://git-scm.com/docs/git-log](https://git-scm.com/docs/git-log)
-[progit/2-Git-基础.html#2.3-查看提交历史](https://gitee.com/progit/2-Git-%E5%9F%BA%E7%A1%80.html#2.3-%E6%9F%A5%E7%9C%8B%E6%8F%90%E4%BA%A4%E5%8E%86%E5%8F%B2)
+* [https://git-scm.com/docs/git-log](https://git-scm.com/docs/git-log)
+* [progit/2-Git-基础.html#2.3-查看提交历史](https://gitee.com/progit/2-Git-%E5%9F%BA%E7%A1%80.html#2.3-%E6%9F%A5%E7%9C%8B%E6%8F%90%E4%BA%A4%E5%8E%86%E5%8F%B2)
