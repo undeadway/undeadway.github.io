@@ -3,6 +3,7 @@
 
 # Vue
 
+* [组件间传值](./组件间传值)
 * [scoped样式穿透](./scoped样式穿透)
 * [vue-meta](./vue-meta)
 * [publicPath](./publicPath)
