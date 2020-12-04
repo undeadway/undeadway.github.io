@@ -13,7 +13,6 @@ git log --pretty=oneline
 
 ```
 git log --graph
-
 ```
 ![](./20201112155122138.png)
 
