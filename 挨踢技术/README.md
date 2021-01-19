@@ -6,6 +6,7 @@
 * [CSS](./CSS)
 * [Git](./Git)
 * [JavaScript](./JavaScript)
+* [jQuery](./jQuery)
 * [Linux](./Linux)
 * [nginx](./nginx)
 * [nodejs](./nodejs)
