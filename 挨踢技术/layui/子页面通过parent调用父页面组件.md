@@ -18,9 +18,9 @@ index.html
 	layui.use(["layer"], function () { // 这里得先注册，或者挂载在 window 中
 
 	});
-	window.test = (function() {
+	window.test = function() {
 		alert("test");
-	});
+	};
 </script>
 
 </html>
