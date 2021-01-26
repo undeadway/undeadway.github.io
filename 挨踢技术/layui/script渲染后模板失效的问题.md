@@ -24,7 +24,7 @@ layui 的组件不会被编译。
 ```
 
 如果要让上述组件可以正常显示，需要通过 `element.render()` 函数来重新编译。  
-`element.render()` 这个函数的参数支持
+`element.render()` 这个函数通过参数支持
 
 * tab
 * nav
@@ -32,4 +32,4 @@ layui 的组件不会被编译。
 * progress
 * collapse
 
-以上组件
+这些组件
