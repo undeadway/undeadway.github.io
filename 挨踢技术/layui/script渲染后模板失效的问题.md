@@ -23,4 +23,13 @@ layui 的组件不会被编译。
 	</div>
 ```
 
-如果要让上面的组件可以被利用，需要通过 reload 方法再编译一遍这段 html。
+如果要让上述组件可以正常显示，需要通过 `element.render()` 函数来重新编译。  
+`element.render()` 这个函数的参数支持
+
+* tab
+* nav
+* breadcrumb
+* progress
+* collapse
+
+以上组件
