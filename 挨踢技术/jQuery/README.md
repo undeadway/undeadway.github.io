@@ -3,4 +3,4 @@
 
 # jQuery
 
-[$.trigger函数小记](./$.trigger函数小记.md)
+[$.trigger函数小记](./$.trigger函数小记)
