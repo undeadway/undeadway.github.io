@@ -6,7 +6,7 @@
 ```
 var fs = require('fs');
 var dir = fs.readdirSync("./script"); // 这里出错
-for (var i = 0, len = dir.length; i < len; i++>) {
+for (var i = 0, len = dir.length; i < len; i++) {
 	require(`./script/${dir[i]}`);
 }
 ```
