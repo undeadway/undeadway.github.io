@@ -18,6 +18,7 @@ ie8 不识别 `dataset` 所以要修改为：
 ```
 $(".notice-li-data").on('click', function (e) {
     console.log('e', e.target.id);
- })
+})
+```
 
  则能兼容
