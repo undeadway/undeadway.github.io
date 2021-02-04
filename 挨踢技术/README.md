@@ -11,3 +11,4 @@
 * [JavaScript](./JavaScript)
 * [TypeScript](./TypeScript)
 * [Shell](./Shell)
+* [其他](./其他)
