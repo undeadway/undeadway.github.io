@@ -5,6 +5,7 @@
 
 * [Git](./Git)
 * [Linux](./Linux)
+* [Deepin](./Deepin)
 * [nginx](./nginx)
 * [前端](./前端)
 * [nodejs](./nodejs)
