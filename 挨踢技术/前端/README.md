@@ -7,4 +7,4 @@
 * [Vue](./Vue)
 * [React](./React)
 * [jQuery](./jQuery)
-* [Layui](./layui)
+* [Layui](./Layui)
