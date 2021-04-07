@@ -2,7 +2,8 @@
 
 ```
 <Select
-	style={{ width:250 }}
+	style= { { width:250 } }
+	allowClear= { true }
 	{...this.props}
 >
 </Select>
