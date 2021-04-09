@@ -16,3 +16,18 @@ for (var i = 0, len = dir.length; i < len; i++) {
 
 所以这里只能放弃这种通过代码读取文件夹直接加载模块的方式，  
 改用手动一个个模块的导入。
+
+如果使用 webpack ，则可以借用 webpack 的 require.context 函数进行自动挂载文件
+```
+	const base = require.context("./base/.");
+	base.keys().forEach(key => {
+		base(key);
+	});
+	const _lib = require.context("./lib/.");
+	_lib.keys().forEach(key => {
+		/^\.\/(((?!\.js).)+)?(.js)?$/.test(key);
+		if (!lib[RegExp.$1]) {
+			lib[key.replace("./", "")] = _lib(key);
+		}
+	});
+```
