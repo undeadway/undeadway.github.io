@@ -19,15 +19,8 @@ for (var i = 0, len = dir.length; i < len; i++) {
 
 如果使用 webpack ，则可以借用 webpack 的 require.context 函数进行自动挂载文件
 ```
-	const base = require.context("./base/.");
-	base.keys().forEach(key => {
-		base(key);
-	});
-	const _lib = require.context("./lib/.");
-	_lib.keys().forEach(key => {
-		/^\.\/(((?!\.js).)+)?(.js)?$/.test(key);
-		if (!lib[RegExp.$1]) {
-			lib[key.replace("./", "")] = _lib(key);
-		}
+	const libs = require.context("./libs/.");
+	libs.keys().forEach(key => {
+		libs(key); // 把某个文件载入的操作，不要修改
 	});
 ```
