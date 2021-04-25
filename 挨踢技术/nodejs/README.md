@@ -5,6 +5,8 @@
 
 ## 笔记
 
+* [Node_Sass_could_not find_a_binding错误](./Node_Sass_could_not find_a_binding错误)
+* [node提示需要python的问题](./node提示需要python的问题)
 * [安装特定版本的模块](./安装特定版本的模块)
 * [前端项目里fs模块报错](./前端项目里fs模块报错)
 * [sct](./sct)
