@@ -8,4 +8,4 @@
 * [ENOSPC 错误](./ENOSPC错误)
 * [FileZilla 无法上传含中文的文件或文件夹](./FileZilla无法上传含中文的文件或文件夹)
 * [ftp 命令](./ftp命令)
-* [VLC 无法打开 MRL screen//」](./VLC无法打开MRL「screen%2F%2F」)
+* [VLC 无法打开 MRL screen//」](./VLC无法打开MRL「screen╱ ╱ 」)
