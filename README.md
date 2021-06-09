@@ -6,10 +6,12 @@
 简单来说，就是一个备忘录。
 
 # 目录
+
 * [挨踢技术](./挨踢技术)
 * [外语学习](./外语学习)
 
 # 链接
+
 * [主站](http://waygc.net)
 * [我的翻译](http://translates.waygc.net)
 * [我的代码](http://codes.waygc.net)
