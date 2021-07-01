@@ -19,4 +19,4 @@ $ appimagetool xxxx包含AppImage内容的文件夹
 ```
 > appimagetool 可从此处下载：wget "https://github.com/AppImage/AppImageKit/releases/download/continuous/appimagetool-aarch64.AppImage"
 
-来源：https://www.cnblogs.com/hencins/p/14446164.html
+来源：[https://www.cnblogs.com/hencins/p/14446164.html](https://www.cnblogs.com/hencins/p/14446164.html)
