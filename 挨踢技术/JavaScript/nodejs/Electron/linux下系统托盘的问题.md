@@ -8,7 +8,7 @@ tray = new Tray(nimage);
 但 linux 下会报错。  
 ![](./linux-tray.png)
 
-按 [gayhub 上的提示](https://github.com/electron/electron/issues/9795) ，这里将参数从 string 修改为 nativeimage 就好了
+按 gayhub 上的[提示](https://github.com/electron/electron/issues/9795) ，这里将参数从 string 修改为 nativeimage 就好了
 
 ```
 const { nativeImage } = require('electron');
