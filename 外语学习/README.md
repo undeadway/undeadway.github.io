@@ -3,7 +3,9 @@
 
 # 外语学习
 
-## 目录
+## Menu
+
+## Note
 
 * [日本語](./日本語)
 * [English](./English)
