@@ -5,11 +5,7 @@
 
 ## 目录
 
-<<<<<<< HEAD
 * [Electron](./Electron)
-=======
-* [nodejs](./nodejs)
->>>>>>> fc2b43d703a5e6ef248c4eae7d723d3b81b5aa20
 
 ## 笔记
 
