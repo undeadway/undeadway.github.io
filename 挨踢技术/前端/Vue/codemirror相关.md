@@ -1,4 +1,4 @@
-1. 导入
+## 1. 导入
 
 ```
 import { codemirror } from "vue-codemirror";
@@ -13,7 +13,7 @@ import 'codemirror/addon/hint/show-hint.js'
 import 'codemirror/addon/hint/sql-hint';
 ```
 
-2. vue 代码
+## 2. vue 代码
 
 Vue 代码：
 
