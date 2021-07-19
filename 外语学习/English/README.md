@@ -3,6 +3,4 @@
 
 # English
 
-## Menu
-
-## Note
+## Tips
