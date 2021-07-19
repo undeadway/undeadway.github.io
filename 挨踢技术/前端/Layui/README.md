@@ -4,7 +4,8 @@
 # Layui
 
 ## 实例
-[Layui 实际效果演示](http://test-admin.waygc.net/)
+
+* [Layui 实际效果演示](http://test-admin.waygc.net/)
 
 ## 笔记
 
