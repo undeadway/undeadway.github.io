@@ -15,11 +15,14 @@ import 'codemirror/addon/hint/sql-hint';
 
 2. vue 代码
 Vue 代码：
+
 ```
 <codemirror id="cm-condition" ref="cm-condition" class="codemirror-box"
     :value="code.condition" :options="options" />
 ```
+
 配置：
+
 ```
 options:{
     tabSize: 2,
@@ -31,7 +34,9 @@ options:{
     extraKeys: {"Alt-/": "autocomplete"},//按键配置
 }
 ```
+
 大小配置：
+
 ```
 mounted () {
     this.$refs["cm-condition"].codemirror.setSize("auto", "160px");
