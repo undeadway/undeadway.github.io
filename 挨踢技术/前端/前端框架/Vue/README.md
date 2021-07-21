@@ -9,7 +9,6 @@
 
 ## 笔记
 
-* [codemirror相关](./codemirror相关)
 * [vue 引用 echarts 出现 "TypeError: Cannot read property 'getAttribute' of undefined" 错误](./vue引用echarts出现TypeError_Cannot_read_property_getAttribute_of_undefined错误)
 * [vue文件导入指定css](./vue文件导入指定css)
 * [同页面跳转时的数据刷新问题](./同页面跳转时的数据刷新问题)
