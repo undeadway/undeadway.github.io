@@ -10,3 +10,4 @@
 * [jQuery](./jQuery)
 * [Layui](./Layui)
 * [codemirror](./codemirror)
+* [echarts](./echarts)
