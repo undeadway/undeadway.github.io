@@ -8,5 +8,8 @@
 ![](./vb-win7-bluescreen-error.png)
 
 换了好几个 win7 镜像都一样，其他的系统没问题。
+**Gnome-boxes 可以用 Win7**
+
+![](./gnome-boxes-win7.png)
 
 但整个 vb 似乎存在系统容易崩溃，要重启动问题。
