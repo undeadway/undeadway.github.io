@@ -4,7 +4,7 @@
 # Electron
 
 ## 实例
-[木头人播放器](http://prj.waygc.net?modellplayer)
+[锚点播放器](http://prj.waygc.net?modellplayer)
 
 ## 笔记
 
