@@ -2,7 +2,7 @@
 
 ```
 const iconPath = path.join(__dirname, `./../..${UiConfig.base.ico}`);
-tray = new Tray(nimage);
+tray = new Tray(iconPath);
 ```
 
 但 linux 下会报错。  
