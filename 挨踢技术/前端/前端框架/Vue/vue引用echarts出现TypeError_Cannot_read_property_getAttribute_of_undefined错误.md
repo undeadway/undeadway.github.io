@@ -29,3 +29,5 @@ created() {
 ```
 
 然后就可以了。
+
+或者把 `created` 换成 `mounted` 。
