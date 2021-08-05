@@ -5,8 +5,6 @@
 
 ## 目录
 
-* [Linux](./Linux)
-* [nginx](./nginx)
 * [前端](./前端)
 * [nodejs](./nodejs)
 * [语言基础](./语言基础)
