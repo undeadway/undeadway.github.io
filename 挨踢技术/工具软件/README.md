@@ -7,4 +7,5 @@
 
 * [Git](./Git)
 * [nginx](./nginx)
+* [Postman](./Postman)
 * [虚拟机](./虚拟机)
