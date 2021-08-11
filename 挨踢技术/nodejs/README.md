@@ -9,6 +9,7 @@
 
 ## 笔记
 
+* [fs模块不认识～符号](./fs模块不认识～符号)
 * [Node_Sass_could_not find_a_binding错误](./Node_Sass_could_not find_a_binding错误)
 * [node提示需要python的问题](./node提示需要python的问题)
 * [安装特定版本的模块](./安装特定版本的模块)
