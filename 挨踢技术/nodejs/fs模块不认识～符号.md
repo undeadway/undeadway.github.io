@@ -7,12 +7,12 @@ fs.accessSync("~")
 ```
 
 但系统却给了我这么一串错误提示：
-> Uncaught Error: ENOENT: no such file or directory, access '~'
->     at Object.accessSync (fs.js:204:3) {
->   errno: -2,
->   syscall: 'access',
->   code: 'ENOENT',
->   path: '~'
+> Uncaught Error: ENOENT: no such file or directory, access '~'  
+>     at Object.accessSync (fs.js:204:3) {  
+>   errno: -2,  
+>   syscall: 'access',  
+>   code: 'ENOENT',  
+>   path: '~'  
 > }
 
 而如果将 `~` 换成 `/home/` 之类的，就没有问题。
