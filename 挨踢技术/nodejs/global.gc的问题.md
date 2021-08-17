@@ -8,4 +8,5 @@
 还有一个问题，在官方 API （[http://nodejs.cn/api/globals.html#globals_global_objects](http://nodejs.cn/api/globals.html#globals_global_objects)）中，没有 `global.gc()` 这个函数。
 
 
-但在网上却能找到这个函数的使用方式，比如这里：[https://stackoverflow.com/questions/32178227/nodejs-calling-global-gc-doesnt-reduce-memory-to-minimum](https://stackoverflow.com/questions/32178227/nodejs-calling-global-gc-doesnt-reduce-memory-to-minimum)
+但至少 soc 上面却有一堆关于 `global.gc()` 的问题：[https://stackoverflow.com/search?q=global.gc](https://stackoverflow.com/search?q=global.gc)  
+有些糊涂。
