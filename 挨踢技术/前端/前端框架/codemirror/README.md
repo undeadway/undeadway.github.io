@@ -5,4 +5,4 @@
 
 ## 笔记
 
-* [codemirror相关](./codemirror相关)
+* [codemirror 相关](./codemirror相关)

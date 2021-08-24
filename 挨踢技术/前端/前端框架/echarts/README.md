@@ -6,4 +6,4 @@
 ## 笔记
 
 * [水球图](./水球图)
-* [legend相关](./legend相关)
+* [legend 相关](./legend相关)
