@@ -9,6 +9,7 @@
 
 ## 笔记
 
+* [安装redis](安装redis)
 * [CentOS7安装neofetch](./CentOS7安装neofetch)
 * [appimage 相关](./appimage相关)
 * [ENOSPC 错误](./ENOSPC错误)

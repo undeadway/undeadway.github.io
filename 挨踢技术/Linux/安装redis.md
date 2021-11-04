@@ -13,7 +13,7 @@ make
 
 make完后 redis-5.0.7目录src下会出现编译后的redis服务程序redis-server，执行./redis-server就可以通过前端模式启动了，不过ssh命令窗口关闭，redis-server程序就结束了。
 
-``
+```
 cd src
 ./redis-server
 ```
