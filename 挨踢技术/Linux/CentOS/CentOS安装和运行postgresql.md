@@ -37,3 +37,8 @@ listen_addresses='*'
 
 这样，外部就可以访问 postgres 了。  
 ![](./postgres_accessed.png)
+
+要开机自启动，执行一下命令：
+```
+systemctl enable postgresql.service
+```
