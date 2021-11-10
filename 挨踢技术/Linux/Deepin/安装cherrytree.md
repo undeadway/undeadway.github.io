@@ -1,4 +1,4 @@
-[目录](../)
+[目录](./)
 # 安装cherrytree
 
 Deepin wiki 上的装不了。

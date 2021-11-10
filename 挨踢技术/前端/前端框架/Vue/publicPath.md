@@ -1,4 +1,4 @@
-[目录](../)
+[目录](./)
 # publicPath
 
 vue.config.js 中的 `publicPath` 不能写成 `./` 不然在路径跳转的时候，会有各种奇奇怪怪的错误。

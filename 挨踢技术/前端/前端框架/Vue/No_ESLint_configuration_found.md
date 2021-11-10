@@ -1,4 +1,4 @@
-[目录](../)
+[目录](./)
 # No ESLint configuration found
 
 原因是 vue 工程中没有 `.eslintrc.js` 这个文件，具体解决方法参照：

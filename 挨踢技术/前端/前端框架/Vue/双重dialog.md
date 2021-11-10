@@ -1,4 +1,4 @@
-[目录](../)
+[目录](./)
 # 双重dialog
 
 在内部的 diaolog 上添加 `append-to-body` 属性就可以了。

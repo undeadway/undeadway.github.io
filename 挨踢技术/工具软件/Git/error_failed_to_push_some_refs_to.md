@@ -1,4 +1,4 @@
-[目录](../)
+[目录](./)
 # error failed to push some refs to
 
 新建了一个仓库，提交到码云上，但提示我：

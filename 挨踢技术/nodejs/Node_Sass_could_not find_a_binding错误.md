@@ -1,4 +1,4 @@
-[目录](../)
+[目录](./)
 # Node Sass could not find a binding 错误
 
 ```

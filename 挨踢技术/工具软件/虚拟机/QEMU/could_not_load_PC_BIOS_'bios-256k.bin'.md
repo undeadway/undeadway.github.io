@@ -1,4 +1,4 @@
-[目录](../)
+[目录](./)
 # could not load PC BIOS 'bios-256k.bin'
 
 在 windows 下通过 `Git Bash` 执行以下代码的时候

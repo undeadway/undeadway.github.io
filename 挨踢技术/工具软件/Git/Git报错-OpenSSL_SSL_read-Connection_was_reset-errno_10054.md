@@ -1,4 +1,4 @@
-[目录](../)
+[目录](./)
 # Git报错 OpenSSL SSL_read: Connection was reset, errno 10054
 
 > Git报错解决：OpenSSL SSL_read: Connection was reset, errno 10054
