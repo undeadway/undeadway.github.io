@@ -1,3 +1,6 @@
+[目录](../)
+# 安装cherrytree
+
 Deepin wiki 上的装不了。
 
 从官网上下 `0.39.4`（或者其他支持的版本） ：[https://launchpad.net/~giuspen/+archive/ubuntu/ppa/+packages](https://launchpad.net/~giuspen/+archive/ubuntu/ppa/+packages)

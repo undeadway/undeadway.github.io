@@ -1,3 +1,6 @@
+[目录](../)
+# postgres修改数据库的owner
+
 ```
 postgres=# alter database 数据库名 owner to 用户名 
 ```

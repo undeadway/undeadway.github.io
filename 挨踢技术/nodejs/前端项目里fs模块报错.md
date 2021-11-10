@@ -1,3 +1,6 @@
+[目录](../)
+# 前端项目里fs模块报错
+
 前端项目里require了fs模块，但是一直报错：
 
 > fs.readdirSync is not a function

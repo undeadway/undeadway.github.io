@@ -1,3 +1,6 @@
+[目录](../)
+# could not load PC BIOS 'bios-256k.bin'
+
 在 windows 下通过 `Git Bash` 执行以下代码的时候
 ```
 qemu-system-i386 -m 16 -k en-us -rtc base=localtime -soundhw sb16,adlib -device cirrus-vga -hda dos.img -drive file=fat:rw:dosfiles/ -boot order=c

@@ -1,3 +1,6 @@
+[目录](../)
+# CentOS7安装redis
+
 ### 1. 下载并编译
 ```
 wget http://download.redis.io/releases/redis-5.0.7.tar.gz

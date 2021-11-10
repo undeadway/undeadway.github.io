@@ -1,3 +1,6 @@
+[目录](../)
+# vue-meta
+
 Vue 可以用 `vue-meta` 来动态设置 html 页面的 header 中的信息。
 
 只要在 vue 文件里写类似下面的代码就可以了。

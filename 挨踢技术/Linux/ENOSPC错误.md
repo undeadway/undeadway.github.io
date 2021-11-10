@@ -1,3 +1,6 @@
+[目录](../)
+# ENOSPC错误
+
 今天在执行 `yarn serve` 命令的时候出现了下面的错误
 ```
 waygc@waygc-PC:~/workspace/swid-frontend$ yarn serve

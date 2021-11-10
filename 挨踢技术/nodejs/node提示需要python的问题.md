@@ -1,4 +1,7 @@
-﻿今天用新电脑重新安装公司前端框架的时候
+﻿[目录](../)
+# node提示需要python的问题
+
+今天用新电脑重新安装公司前端框架的时候
 
 ```
 gyp verb check python checking for Python executable "python2" in the PATH

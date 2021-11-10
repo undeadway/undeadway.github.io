@@ -1,3 +1,6 @@
+[目录](../)
+# 编译时出现 /deep/ 错误的问题
+
 ```
 Failed to compile.
 

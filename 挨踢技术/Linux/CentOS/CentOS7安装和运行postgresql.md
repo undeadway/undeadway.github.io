@@ -1,4 +1,5 @@
-**以下示例以 CentOS7 为准**
+[目录](../)
+# CentOS7安装和运行postgresql
 
 使用 root 权限安装软件：
 ```

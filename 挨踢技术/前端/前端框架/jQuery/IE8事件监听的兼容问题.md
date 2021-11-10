@@ -1,3 +1,6 @@
+[目录](../)
+# IE8事件监听的兼容问题
+
 有如下代码
 ```
 <p class="notice-content max-width" data-id="12345678">testtest</p>

@@ -1,3 +1,6 @@
+[目录](../)
+# CentOS7安装neofetch
+
 ```
 sudo yum -y install dnf
 sudo dnf -y install dnf-plugins-core

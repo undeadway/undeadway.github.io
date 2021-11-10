@@ -1,3 +1,6 @@
+[目录](../)
+# 编译安装nginx
+
 从官网上下载压缩包到本地，最新的版本是[nginx-1.19.2](https://nginx.org/download/nginx-1.19.2.tar.gz)
 
 ## echo 模块

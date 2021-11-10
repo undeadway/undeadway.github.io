@@ -1,3 +1,6 @@
+[目录](../)
+# vue引用 echarts 出现：TypeError Cannot read property getAttribute of undefined 错误
+
 vue 代码：
 ```
 <template>
