@@ -40,35 +40,7 @@ export PATH=$REDIS_HOME/bin:$PATH
 source /etc/profile
 ```
 
-### 4. 配置service启动方式
-
-```
-# 进入redis解压目录
-cd ~/redis-5.0.5/utils
-# 运行安装服务
-./install_server.sh
-# 设置端口号，默认[6379]，默认即可
-# 设置配置文件地址，默认[/etc/redis/6379.conf]，我选择放到/usr/local/redis/etc/6379.conf
-# 设置日志文件地址，默认[/var/log/redis_6379.log]，默认即可
-# 设置数据目录（持久化），默认[/var/lib/redis/6379]，默认即可
-# 设置redis可执行目录，默认[/usr/local/redis/bin/redis-server]，默认即可
-# 最后回车确认
-
-# 查看redis服务状态
-service redis_6379 status
-# 启动redis服务
-service redis_6379 start
-# 停止redis服务
-service redis_6379 stop
-# 重新启动redis服务
-service redis_6379 restart
-# 配置redis开机自动启动
-chkconfig redis_6379 on
-# 配置redis开机不自动启动
-chkconfig redis_6379 off
-```
-
-### 5.配置systemctl启动方式
+### 4. 配置systemctl启动方式
 
 ```
  将redis解压目录的redis配置文件复制过来
@@ -114,3 +86,20 @@ systemctl disable redis_6379
 版权声明：本文为CSDN博主「Wenx408」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
 原文链接：https://blog.csdn.net/jwx90312/article/details/104225549
 ```
+
+### 5. 配置外部可访问
+
+编辑 `redis.conf`
+
+```
+1. 注释掉
+bind 127.0.0.1
+
+2. protected-mode 修改为 no
+
+3. 注释掉 requirepass
+```
+
+就可以让其他的机器访问了。
+
+![](./redis-accessed.png)
