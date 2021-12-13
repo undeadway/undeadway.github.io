@@ -9,6 +9,7 @@
 
 ## 笔记
 
+* [nodejs 打包本地应用程序](./nodejs打包本地应用程序)
 * [global.gc 的问题](./global.gc的问题)
 * [fs 模块不认识～符号](./fs模块不认识～符号)
 * [Node_Sass_could_not find_a_binding错误](./Node_Sass_could_not find_a_binding错误)
