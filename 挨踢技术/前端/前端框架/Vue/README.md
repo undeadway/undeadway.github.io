@@ -9,6 +9,7 @@
 
 ## 笔记
 
+* [子组件延迟加载](./子组件延迟加载)
 * [双重dialog](./双重dialog)
 * [vue 引用 echarts 出现 "TypeError: Cannot read property 'getAttribute' of undefined" 错误](./vue引用echarts出现TypeError_Cannot_read_property_getAttribute_of_undefined错误)
 * [vue 文件导入指定 css](./vue文件导入指定css)
