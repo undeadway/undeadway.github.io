@@ -81,7 +81,7 @@ export default {
 
 然后就奇了怪了，为什么弹出的日期选择框的位置就不对呢？
 
-找到一份资料：[#](https://www.php.cn/js-tutorial-453052.html)
+找到一份资料：[https://www.php.cn/js-tutorial-453052.html](https://www.php.cn/js-tutorial-453052.html)
 
 找着修改了一下代码
 
