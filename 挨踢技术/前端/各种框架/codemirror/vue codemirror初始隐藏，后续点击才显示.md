@@ -16,5 +16,5 @@ setTimeout(
 );
 ```
 
-参考1：[https://bbs.huaweicloud.com/blogs/detail/152434](https://bbs.huaweicloud.com/blogs/detail/152434)
-参考2：[https://stackoverflow.com/questions/8349571/codemirror-editor-is-not-loading-content-until-clicked](https://stackoverflow.com/questions/8349571/codemirror-editor-is-not-loading-content-until-clicked)
+* 参考1：[https://bbs.huaweicloud.com/blogs/detail/152434](https://bbs.huaweicloud.com/blogs/detail/152434)
+* 参考2：[https://stackoverflow.com/questions/8349571/codemirror-editor-is-not-loading-content-until-clicked](https://stackoverflow.com/questions/8349571/codemirror-editor-is-not-loading-content-until-clicked)
