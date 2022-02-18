@@ -24,6 +24,7 @@
 
 ### JavaScript
 
+* [一个 http 的封装](./一个http的封装)
 * [直接打开网址可以跳转，通过window.open报错404](./直接打开网址可以跳转，通过window．open报错404)
 
 ### HTTP
