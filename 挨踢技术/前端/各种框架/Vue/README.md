@@ -9,6 +9,8 @@
 
 ## 笔记
 
+* [解决Uncaught (in promise) NavigationDuplicated: Avoided redundant navigation to current location: "/" 错误.](解决Uncaught_in_promise_NavigationDuplicated_Avoided_redundant_navigation_to_current_location错误)
+* [vue 出现 TypeError: Cannot read property '__ob__' of undefined 的问题](./vue出现TypeError_Cannot_read_property__ob__of_undefined的问题)
 * [ElementUI日期组件用v-if显示时，样式出错](./ElementUI日期组件用v-if显示时，样式出错)
 * [子组件延迟加载](./子组件延迟加载)
 * [双重dialog](./双重dialog)
