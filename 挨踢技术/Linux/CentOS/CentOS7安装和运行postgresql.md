@@ -1,6 +1,31 @@
 [目录](./)
 # CentOS7安装和运行postgresql
 
+1、导入yum源
+```
+sudo yum install -y https://download.postgresql.org/pub/repos/yum/reporpms/EL-7-x86_64/pgdg-redhat-repo-latest.noarch.rpm
+```
+2、安装PostgreSQL服务
+```
+sudo yum install -y postgresql12 postgresql12-server
+```
+
+3、初始化数据库
+```
+sudo /usr/pgsql-12/bin/postgresql-12-setup initdb 
+
+#Initializing database ... OK
+```
+4、启动PostgreSQL服务
+```
+#启动PostgreSQL服务
+sudo systemctl start postgresql-12
+
+#设置PostgreSQL服务为开机启动
+sudo systemctl enable postgresql-12
+```
+-------------------------------------------------
+### 以下为 postgres 9.5 的操作
 使用 root 权限安装软件：
 ```
 yum install posrgresql
