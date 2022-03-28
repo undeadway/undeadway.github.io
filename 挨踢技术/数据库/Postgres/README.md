@@ -5,7 +5,7 @@
 
 ## 笔记
 
-* [PG 提示 SQL 错误 \[42501\]: ERROR: permission denied for relation 的问题](./PG提示SQL错误_52501_ERROR_permission_denied_for_relation的问题)
+* [PG 提示 SQL 错误 42501: ERROR: permission denied for relation 的问题](./PG提示SQL错误_52501_ERROR_permission_denied_for_relation的问题)
 * [postgres 修改用户密码](./postgres修改用户密码)
 * [postgres 修改数据库的 owner](./postgres修改数据库的owner)
 * [postgresql 修改数据库编码](./postgresql修改数据库编码)
