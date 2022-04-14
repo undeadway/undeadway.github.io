@@ -10,6 +10,7 @@
 
 ## 笔记
 
+* [sshfs挂载远程目录](./sshfs挂载远程目录)
 * [appimage 相关](./appimage相关)
 * [ENOSPC 错误](./ENOSPC错误)
 * [FileZilla 无法上传含中文的文件或文件夹](./FileZilla无法上传含中文的文件或文件夹)
