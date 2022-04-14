@@ -10,8 +10,8 @@
 #!/bin/bash
 
 tar zxf node-v12.17.0-linux-x64.tar.gz
-sudo cp ./gnpm.sh ./node-v12.17.0-linux-x64
-chmod 755 ./node-v12.17.0-linux-x64/gnpm.sh
+chmod 755 ./gnpm.sh
+cp ./gnpm.sh ./node-v12.17.0-linux-x64
 
 sudo rm -rf /opt/node-v12.17.0-linux-x64
 sudo cp -r ./node-v12.17.0-linux-x64 /opt
