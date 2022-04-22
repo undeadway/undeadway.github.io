@@ -7,6 +7,7 @@
 
 ## 代码片段
 
+* [Shell脚本bash: /bin/bash^M：解释器错误: 没有那个文件或目录](./Shell脚本bash_bin_bash_M解释器错误_没有那个文件或目录)
 * [nodejs自动安装脚本](./nodejs自动安装脚本)
 * [设置自定义 shell 为 linux 系统命令](./设置自定义shell为linux系统命令)
 * [时间日期相关](./时间日期相关)
