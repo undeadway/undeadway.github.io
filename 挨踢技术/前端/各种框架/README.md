@@ -11,3 +11,4 @@
 * [Layui](./Layui)
 * [codemirror](./codemirror)
 * [echarts](./echarts)
+* [fontawesome](./fontawesome)
