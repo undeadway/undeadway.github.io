@@ -9,6 +9,7 @@
 
 ## 笔记
 
+* [【VUE异常】Avoid mutating a prop directly since the value will be overwritten](./【VUE异常】Avoid_mutating_a prop_directly_since the_value_will_be_overwritten_whenever_the_parent component_re-renders)
 * [解决Uncaught (in promise) NavigationDuplicated: Avoided redundant navigation to current location: "/" 错误](解决Uncaught_in_promise_NavigationDuplicated_Avoided_redundant_navigation_to_current_location错误)
 * [vue 出现 TypeError: Cannot read property '__ob__' of undefined 的问题](./vue出现TypeError_Cannot_read_property__ob__of_undefined的问题)
 * [ElementUI日期组件用v-if显示时，样式出错](./ElementUI日期组件用v-if显示时，样式出错)
