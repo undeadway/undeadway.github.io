@@ -25,3 +25,4 @@
 | \q/\e | 退出 psql |  |
 | \db | List of tablespaces |  |
 | \\! | 调用操作系统命令 |  |
+| 
