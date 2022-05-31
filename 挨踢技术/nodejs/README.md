@@ -9,6 +9,7 @@
 
 ## 笔记
 
+* [yarn 报 Found incompatible module 错误](./yarn报_Found_incompatible_module错误)
 * [nodejs 打包本地应用程序](./nodejs打包本地应用程序)
 * [global.gc 的问题](./global.gc的问题)
 * [fs 模块不认识～符号](./fs模块不认识～符号)
