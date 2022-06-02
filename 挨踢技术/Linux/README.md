@@ -10,6 +10,7 @@
 
 ## 笔记
 
+* [SSH免密登陆](./SSH免密登陆)
 * [sshfs挂载远程目录](./sshfs挂载远程目录)
 * [appimage 相关](./appimage相关)
 * [ENOSPC 错误](./ENOSPC错误)
