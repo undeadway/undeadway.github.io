@@ -13,3 +13,4 @@
 * [VirtualBox 出现各种错误](./VirtualBox出现各种错误)
 * [VScode 无法只按住鼠标左键选取多行](./VScode无法只按住鼠标左键选取多行)
 * [deepin 关闭 vscode 默认打开文件夹](./deepin关闭vscode默认打开文件夹)
+* [Deepin安装输入法](./Deepin安装输入法)
