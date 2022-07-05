@@ -8,7 +8,7 @@
 
 ## 笔记
 
-* [linux下tray返回主界面的问题](./linux下tray返回主界面的问题)
+* [linux下tray按键触发相关问题](./linux下tray按键触发相关问题)
 * [win下electron因resizable:false引发的高度变化bug](./win下electron因resizable_false引发的高度变化bug)
 * [linux 下系统托盘的问题](./linux下系统托盘的问题)
 * [资源访问的问题](./资源访问的问题)
