@@ -9,6 +9,7 @@
 
 ## 笔记
 
+* [watch中引用this](./watch中引用this)
 * [在script标签中引用filter](./在script标签中引用filter)
 * [【VUE异常】Avoid mutating a prop directly since the value will be overwritten](./【VUE异常】Avoid_mutating_a prop_directly_since the_value_will_be_overwritten_whenever_the_parent component_re-renders)
 * [解决Uncaught (in promise) NavigationDuplicated: Avoided redundant navigation to current location: "/" 错误](解决Uncaught_in_promise_NavigationDuplicated_Avoided_redundant_navigation_to_current_location错误)
