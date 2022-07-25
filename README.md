@@ -15,7 +15,7 @@
 ## 链接
 
 * [主站（维护中）](http://waygc.net)
-* [我的翻译（维护中）](http://translates.waygc.net)
+* [我的翻译](http://translates.waygc.net)
 * [我的玩具](http://prj.waygc.net)
 * [我的文字（维护中）](http://words.waygc.net)
 * [我的足迹](http://trails.waygc.net)
