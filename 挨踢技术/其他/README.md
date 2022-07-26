@@ -6,3 +6,7 @@
 ## 目录
 
 * [LeetCode刷题](./LeetCode刷题)
+
+## 各种下载
+
+* [maven 各个版本下载地址](http://archive.apache.org/dist/maven/maven-3/)
