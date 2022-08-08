@@ -5,6 +5,7 @@
 
 ## 笔记
 
+* [git记录登录信息](./git记录登录信息)
 * [git提交或克隆报错fatal: unable to access](./git提交或克隆报错fatal_unable_to_access)
 * [.gitignore文件不起作用的解决方法](./gitignore文件不起作用的解决方法)
 * [Git报错解决：OpenSSL SSL_read: Connection was reset, errno 10054](./Git报错-OpenSSL_SSL_read-Connection_was_reset-errno_10054)
