@@ -26,3 +26,12 @@ export default defineComponent({
 </script>
 ```
 
+参考：[https://www.jianshu.com/p/c61b7c13c6d4](https://www.jianshu.com/p/c61b7c13c6d4)
+
+在实际项目中，看到了类似这样的代码：
+```
+PropType<('contextmenu' | 'click' | 'hover')[]>
+PropType<(DropMenu & Recordable)[]>
+```
+
+特别是前一种，暂时有些不理解。
