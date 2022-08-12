@@ -1,3 +1,4 @@
+[目录](./)
 # HTML 编码规范
 
 1. 所有 HTML 标签都要用小写字母；
@@ -10,6 +11,6 @@
 ＜div＞＜/div＞＜span＞＜/span＞              X
 ＜div＞＜/div＞＜div＞＜span＞＜/span＞＜/div＞   √
 ```
-
+ 
 6. 如果有特殊理由要违背上述规范，需要陈述理由，表明该方案的不可替代性；
 7. `img`、`br`、`hr` 等空标签，写法为：`＜tagname attr="value" /＞`；
