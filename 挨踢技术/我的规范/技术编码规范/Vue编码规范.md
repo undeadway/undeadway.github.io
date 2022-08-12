@@ -2,6 +2,7 @@
 # Vue 编码规范
 
 1. 在定义 props 的时候，**严禁** 对一个变量进行多类型赋值，如：
+
 ```
 export default {
     props: {
