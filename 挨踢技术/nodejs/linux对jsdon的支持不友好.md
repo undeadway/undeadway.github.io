@@ -2,6 +2,21 @@
 # linux对jsdon的支持不友好
 
 在 Deepin 下，在项目中直接安装 jsdom 似乎知道不到路径，不知道为什么。  
+而且除了 1.0.0 以外的版本，都会出现找不到版本的问题。
+
+```
+npm ERR! code ETARGET
+npm ERR! notarget No matching version found for jsom@^20.0.0.
+npm ERR! notarget In most cases you or one of your dependencies are requesting
+npm ERR! notarget a package version that doesn't exist.
+npm ERR! notarget 
+npm ERR! notarget It was specified as a dependency of 'jsconst'
+npm ERR! notarget 
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/waygc/.npm/_logs/2022-08-12T09_09_46_133Z-debug.log
+```
+
 要全局安装，并且直接 `require('jsdom')`不行，要写绝对路径：
 ```
 require("/usr/local/lib/node_modules/jsdom");
