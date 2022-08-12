@@ -34,6 +34,7 @@ const fs = require("fs");
 
 8. 尽量少用异步操作，用 `async` / `await` 的同步方式来替代；
 9. 一个变量尽可能只负责一种数据类型，不要随意变更，如：
+
 ```
 let abc = "A,B,C";
 abc = abc.split(",");           X
