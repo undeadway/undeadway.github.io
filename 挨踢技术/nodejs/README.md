@@ -9,6 +9,7 @@
 
 ## 笔记
 
+* [yarn安装node_sass失败](yarn安装node_sass失败)
 * [linux对jsdom的支持不友好](./linux对jsdom的支持不友好)
 * [yarn 报 Found incompatible module 错误](./yarn报_Found_incompatible_module错误)
 * [nodejs 打包本地应用程序](./nodejs打包本地应用程序)
