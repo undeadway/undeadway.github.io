@@ -1,7 +1,7 @@
 [目录](./)
 # Java 编码规范
 
-1. 在controller 中，不允许出现逻辑代码；
+1. 在 controller 中，不允许出现逻辑代码；
 2. 在 service 层方法体的最外侧，包裹一层 `try/catch`，保证所有不可控的错误都能被捕获，如：
 ```
 public void serviceMethod() {
