@@ -59,3 +59,18 @@ chars = chars.split(",");               X
 let chars = "a,b,c";
 let charArr = chars.split(",");         √
 ```
+
+12\. 一个指示符同时声明多个变量的时候，每行一个，并且第二个对其第一个，且**数据类型最好也保持一致**，如：
+
+```
+var str1 = "1",   
+    str2 = "2";       √
+var str1 = "1",   
+    num2 = 2;       X
+
+const arr1 = [],
+      arr2 = [];      √
+
+const arr1 = [],
+    arr2 = [];       X
+```
