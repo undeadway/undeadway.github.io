@@ -1,10 +1,10 @@
 [目录](./)
 # ElementUI日期组件用v-if显示时，样式出错
 
-现象如下：
+### 现象
 ![](element-timepicker-style-error.gif)
 
-代码如下：
+### 代码
 ```
 <template>
   <div v-loading="inLoading" element-loading-tex="数据加载中...">
@@ -82,11 +82,11 @@ export default {
 </script>
 ```
 
-然后就奇了怪了，为什么弹出的日期选择框的位置就不对呢？
+### 解决方案
 
-找到一份资料：[https://www.php.cn/js-tutorial-453052.html](https://www.php.cn/js-tutorial-453052.html)
+参考资料：[https://www.php.cn/js-tutorial-453052.html](https://www.php.cn/js-tutorial-453052.html)
 
-找着修改了一下代码
+修改了一下代码
 
 ```
 <template>
