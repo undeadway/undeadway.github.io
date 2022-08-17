@@ -2,7 +2,7 @@
 # ElementUI日期组件用v-if显示时，样式出错
 
 现象如下：
-![](vue-iff-style-error.gif)
+![](element-timepicker-style-error.gif)
 
 代码如下：
 ```
