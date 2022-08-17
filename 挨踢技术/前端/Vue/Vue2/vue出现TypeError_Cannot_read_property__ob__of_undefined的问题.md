@@ -1,5 +1,5 @@
 [目录](./)
-# vue 出现 TypeError: Cannot read property '__ob__' of undefined 的问题
+# vue 出现 TypeError: Cannot read property '\_\_ob\_\_' of undefined 的问题
 
 原因是
 ```
