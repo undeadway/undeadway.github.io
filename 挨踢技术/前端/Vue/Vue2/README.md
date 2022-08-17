@@ -9,6 +9,7 @@
 
 ## 笔记
 
+* [vue-ls](./vue-ls)
 * [配置webpack的gzip压缩](./配置webpack的gzip压缩)
 * [watch中引用this](./watch中引用this)
 * [在script标签中引用filter](./在script标签中引用filter)
