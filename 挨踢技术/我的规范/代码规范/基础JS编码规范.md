@@ -10,6 +10,7 @@
   let a = [];               √
   let o = {};               √ 
   function f() {};          √
+  const f = function() {};  √
 
   let a = new Array();      X
   let o = new Object();     X
@@ -21,7 +22,11 @@
   function getObj() {
     return {};
   }
-  let o = getObj();
+  let o = getObj();         √ 
+
+  function Obj() {
+  }
+  let o = new Obj();        X 
 ```
 
 6\. 如无特殊情况，所有代码禁止使用 `==` ，全部使用 `===` ；
