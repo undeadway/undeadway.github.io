@@ -9,4 +9,4 @@
 
 ## 代码
 
-* [LabelToolTip](./)
+* [LabelToolTip](./LabelToolTip)
