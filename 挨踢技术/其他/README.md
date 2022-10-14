@@ -10,5 +10,6 @@
 
 ## 各种下载
 
+* [下载IntelliJ IDEA、PyCharm、PhpStorm免费激活码](http://idea.94goo.com/)
 * [maven 各个版本下载地址](http://archive.apache.org/dist/maven/maven-3/)
 * [VirtualBox](http://download.virtualbox.org/virtualbox/)
