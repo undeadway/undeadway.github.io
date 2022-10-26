@@ -7,6 +7,10 @@
 
 * [jeecg](./jeecg)
 
+## 笔记
+
+* [a-select组件下拉列表在局部滚动时不跟随的问题](./aselect组件下拉列表在局部滚动时不跟随的问题)
+
 ## 代码
 
 * [DeleteWarningModal](./DeleteWarningModal)
