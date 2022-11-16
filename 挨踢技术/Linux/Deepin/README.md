@@ -7,6 +7,7 @@
 
 ## 笔记
 
+* [Deepin安装wireshark](./Deepin安装wireshark)
 * [Deepin安装webbench](./Deepin安装webbench)
 * [Anbox启动项](./anbox启动项)
 * [主目录下的文件夹变成了中文](./主目录下的文件夹变成了中文)
