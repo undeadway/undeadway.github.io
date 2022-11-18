@@ -10,7 +10,6 @@
     :width="850"
     :visible="visible"
     @ok="handleClose"
-    okText="查询"
     @cancel="handleClose"
 		:footer="null"
   >
