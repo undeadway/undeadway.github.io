@@ -11,4 +11,4 @@
 老实说，没怎么看懂。  
 [https://blog.csdn.net/anxin_wang/article/details/79081151](https://blog.csdn.net/anxin_wang/article/details/79081151)
 
-感觉似乎和我的 [http请求.md](../Vue/Vue2/http请求) 有些类似？
+感觉似乎和我的 [http请求](../Vue/Vue2/http请求) 有些类似？
