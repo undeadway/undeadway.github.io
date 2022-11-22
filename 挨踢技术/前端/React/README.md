@@ -5,6 +5,7 @@
 
 ## 笔记
 
+* [hahoorequest](./hahoorequest)
 * [reselect](./reselect)
 * [no-unknown-property](./no-unknown-property.md)
 * [setState不立刻更新页面的问题](./setState不立刻更新页面的问题)
