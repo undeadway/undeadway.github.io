@@ -39,20 +39,19 @@
     name: "ValiPasswordModal",
     data () {
       return {
-                visible: false,
+        visible: false,
         callback: null,
         delObjName: "",
         others: "",
         randCode: "",
         editForm: {
-          inputRandCode: ""
+            inputRandCode: ""
         },
         validatorRules: {
           inputRandCode: [
             { required: true, message: '请输入随机码' },
             { validator: this.validInputRandCode }
           ]
-
         }
       };
     },
@@ -62,7 +61,6 @@
           if (!valid) {
             return;
           }
-
           this.close();
           setTimeout(() => { // 稍作延迟，可以上视觉上有所察觉
             this.callback();

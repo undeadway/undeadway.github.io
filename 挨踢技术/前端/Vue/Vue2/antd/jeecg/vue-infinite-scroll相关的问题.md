@@ -1,8 +1,8 @@
 [目录](./)
-# Syntax Error: TypeError: Cannot set property ‘parent‘ of undefined
+# vue-infinite-scroll 相关的问题
 
 ## 现象
-在执行npm run serve后，前端项目报错
+因为要无限向下滚动，载入了 `vue-infinite-scroll` ，但因此出现了如下图的错误。
 
 ![](./6fc3b2d0e5d446539e78cf6998de58ef.png)
 
