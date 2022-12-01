@@ -5,6 +5,7 @@
 
 ## 目录
 
+* [Chrome](./Chrome)
 * [Git](./Git)
 * [nginx](./nginx)
 * [Postman](./Postman)
