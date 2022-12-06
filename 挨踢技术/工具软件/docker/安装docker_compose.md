@@ -1,6 +1,6 @@
 [目录](./)
 
-# 安装Compose
+# 安装docker-compose
 
 
 ```
