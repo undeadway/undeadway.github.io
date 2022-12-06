@@ -10,4 +10,3 @@
 * [CentOS7安装redis](CentOS7安装redis)
 * [CentOS7安装neofetch](./CentOS7安装neofetch)
 * [CentOS7安装和运行postgresql](./CentOS7安装和运行postgresql)
-* [CentOS安装netstat](./CentOS安装netstat)
