@@ -11,7 +11,6 @@
 ## 笔记
 
 * [cat命令对文件进行追加](./cat命令对文件进行追加)
-* [安装docker](./安装docker)
 * [SSH免密登陆](./SSH免密登陆)
 * [sshfs挂载远程目录](./sshfs挂载远程目录)
 * [appimage 相关](./appimage相关)
