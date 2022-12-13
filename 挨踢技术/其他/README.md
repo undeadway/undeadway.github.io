@@ -10,6 +10,7 @@
 
 ## 各种下载
 
+* [Android Studio 过往版本](https://developer.android.google.cn/studio/archive.html)
 * [Extensions for Visual Studio](https://marketplace.visualstudio.com/)
 * [Shotcut Old Versions](https://www.videohelp.com/software/Shotcut/old-versions)
 * [下载IntelliJ IDEA、PyCharm、PhpStorm免费激活码](http://idea.94goo.com/)
