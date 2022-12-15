@@ -8,6 +8,10 @@
 
 ![](./entered_disabled_state.png)
 
+试过网上各种方法之后都没什么用。  
+比如：
+* [https://www.yisu.com/zixun/9842.html](https://www.yisu.com/zixun/9842.html)
+
 调试之后发现，可能原因是 docker 启动的时候，命令不对，下面这样就可以正常启动 docker 。
 
 ```
