@@ -8,6 +8,7 @@
 
 ## 代码片段
 
+* [Linux shell脚本执行提示错误\[\[: not found](./Linux_shell脚本执行提示错误[[not_found)
 * [nodejs自动安装脚本](./nodejs自动安装脚本)
 * [设置自定义 shell 为 linux 系统命令](./设置自定义shell为linux系统命令)
 * [时间日期相关](./时间日期相关)
