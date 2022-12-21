@@ -4,7 +4,7 @@
 # Shell
 
 ## 笔记
-* [Linux shell脚本执行提示错误\[\[: not found](./Linux_shell脚本执行提示错误[[not_found)
+* [Linux shell脚本执行提示错误\[\[: not found](./Linux_shell脚本执行提示错误%5B%5Bnot_found)
 * [Shell脚本bash: /bin/bash^M：解释器错误: 没有那个文件或目录](./Shell脚本bash_bin_bash_M解释器错误_没有那个文件或目录)
 
 ## 代码片段
