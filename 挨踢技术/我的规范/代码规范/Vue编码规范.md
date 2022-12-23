@@ -8,7 +8,7 @@ export default {
     props: {
         abc: {
             type: [String, Number, Boolean], // 这里只允许定义一种数据类型
-            default: ''
+            default: ""
         }
     }
 }
