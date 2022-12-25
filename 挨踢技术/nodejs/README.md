@@ -9,6 +9,7 @@
 
 ## 笔记
 
+* [从fs.stat的返回值中的mode说起](./从fs_stat的返回值中的mode说起)
 * [yarn安装node-sass失败](yarn安装node_sass失败)
 * [linux对jsdom的支持不友好](./linux对jsdom的支持不友好)
 * [yarn 报 Found incompatible module 错误](./yarn报_Found_incompatible_module错误)

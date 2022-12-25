@@ -7,9 +7,11 @@
 
 * [Deepin](./Deepin)
 * [CentOS](./CentOS)
+* [Debian](./Debian)
 
 ## 笔记
 
+* [cat命令对文件进行追加](./cat命令对文件进行追加)
 * [SSH免密登陆](./SSH免密登陆)
 * [sshfs挂载远程目录](./sshfs挂载远程目录)
 * [appimage 相关](./appimage相关)
@@ -18,3 +20,4 @@
 * [ftp 命令](./ftp命令)
 * [VLC 无法打开 MRL screen//」](./VLC无法打开MRL「screen：╱╱」)
 * [开机启动服务](./开机启动服务)
+* [安装netstat](./安装netstat)

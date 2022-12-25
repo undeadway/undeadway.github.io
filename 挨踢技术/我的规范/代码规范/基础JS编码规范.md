@@ -10,6 +10,7 @@
   let a = [];               √
   let o = {};               √ 
   function f() {};          √
+  const f = function() {};  √
 
   let a = new Array();      X
   let o = new Object();     X
@@ -21,10 +22,14 @@
   function getObj() {
     return {};
   }
-  let o = getObj();
+  let o = getObj();         √ 
+
+  function Obj() {
+  }
+  let o = new Obj();        X 
 ```
 
-6\. 如无特殊情况，所有代码禁止使用 `==` ，全部使用 `===` ；
+6\. 如无特殊情况，所有代码禁止使用 `==` ，全部使用 `===` （**此为强制规定**）；
 
 7\. `require` 进来的包，必须用 `const` 来定义，如：
 ```
@@ -63,10 +68,10 @@ let charArr = chars.split(",");         √
 12\. 一个指示符同时声明多个变量的时候，每行一个，并且第二个对其第一个，且**数据类型最好也保持一致**，如：
 
 ```
-var str1 = "1",   
+let str1 = "1",   
     str2 = "2";       √
-var str1 = "1",   
-    num2 = 2;       X
+let str1 = "1",   
+  num2 = 2;       X
 
 const arr1 = [],
       arr2 = [];      √
@@ -76,4 +81,4 @@ const arr1 = [],
 ```
 13\. 字符串不得使用单引号，全部使用双引号（**此为强制规定**）；
 
-14\. 拼接字符串时，尽量少用 `+` 而采用模板（`${tmpl}`）形式；
+14\. 拼接字符串时，尽量少用 `+` 而采用模板（`因为${s1}而${s2}`）形式；

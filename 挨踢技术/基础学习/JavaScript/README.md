@@ -9,6 +9,7 @@
 * [IE8 下数组最后的空对象问题](./IE8下数组最后的空对象问题)
 * [引用相同对象的问题](./引用相同对象的问题)
 * [稀疏数组](./稀疏数组)
+* [Function.prototype.bind](./Function_prototype_bind)
 
 ## 代码片段
 

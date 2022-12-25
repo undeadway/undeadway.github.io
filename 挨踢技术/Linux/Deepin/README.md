@@ -7,6 +7,8 @@
 
 ## 笔记
 
+* [Deepin安装wireshark](./Deepin安装wireshark)
+* [Deepin安装webbench](./Deepin安装webbench)
 * [Anbox启动项](./anbox启动项)
 * [主目录下的文件夹变成了中文](./主目录下的文件夹变成了中文)
 * [Deepin提示“输入密码以解锁您的登录密钥环”](./Deepin提示_输入密码以解锁您的登录密钥环)
