@@ -10,6 +10,7 @@
 
 ## 笔记
 
+* [click阻止事件冒泡](./click阻止事件冒泡)
 * [前端加密](./前端加密)
 * [vue-ls](./vue-ls)
 * [配置webpack的gzip压缩](./配置webpack的gzip压缩)
