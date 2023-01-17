@@ -3,8 +3,6 @@
 
 # Deepin
 
-![](os-msg.png)
-
 ## 笔记
 
 * [Deepin安装wireshark](./Deepin安装wireshark)
