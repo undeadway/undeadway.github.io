@@ -6,8 +6,8 @@
 ## 各种框架
 
 * [Vue](./Vue)
-** [Vue2](./Vue/Vue2)
-** [Vue3](./Vue3)
+	* [Vue2](./Vue/Vue2)
+	* [Vue3](./Vue3)
 * [React](./React)
 * [jQuery](./jQuery)
 * [Layui](./Layui)
