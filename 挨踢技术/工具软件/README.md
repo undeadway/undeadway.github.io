@@ -10,6 +10,7 @@
 * [Chrome](./Chrome)
 * [Firefox](./Firefox)
 * [Git](./Git)
+* [SVN](./SVN)
 * [nginx](./nginx)
 * [虚拟机](./虚拟机)
 * [其他](./其他)
