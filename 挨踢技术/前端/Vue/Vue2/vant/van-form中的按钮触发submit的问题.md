@@ -29,10 +29,7 @@
 
 ## 解决方案
 
-修改方案有两个
-
-1. 把`@submit` 改成普通的 `@click`；
-2. 给 `van-button` 加上 `native-type="button"`。
+修改方案是给 `van-button` 加上 `native-type="button"`。
 
 ## 参考
 [https://blog.csdn.net/qq_43379916/article/details/119184218](https://blog.csdn.net/qq_43379916/article/details/119184218)
