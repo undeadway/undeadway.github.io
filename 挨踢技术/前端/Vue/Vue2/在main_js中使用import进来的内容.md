@@ -12,5 +12,5 @@ import some from "./views/" // 比如我把所有组件导入了进来
 
 console.log(some); // some = undefined
 const other = some; 
-console.log(other); // 这时 other 就可以用了
+console.log(other.Compo1); // 这时 other 就可以用了
 ```
