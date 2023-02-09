@@ -4,7 +4,7 @@
 
 ### 现象
 
-react native 的项目，编译 打包安卓，在 andriod 文件夹下执行 `/gradlew assembleRelease` 命令后，出现类似下面这样的错误
+react native 的项目编译打包安卓，在 andriod 文件夹下执行 `./gradlew assembleRelease` 命令后，出现类似下面这样的错误
 
 ```
 > Task :react-native-aliyun-push:compileReleaseJavaWithJavac
