@@ -11,3 +11,5 @@ git config --global http.sslVerify "false"
 试了一下，确实可以。
 
 ![](./git-error-10054.png)
+
+参考：[https://blog.csdn.net/qq_29493173/article/details/114534057](https://blog.csdn.net/qq_29493173/article/details/114534057)
