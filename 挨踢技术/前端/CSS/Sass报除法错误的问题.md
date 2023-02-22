@@ -25,4 +25,4 @@ More info and automated migrator: https://sass-lang.com/d/slash-div
 ```
 
 报错的原因是除法有精度问题，所以被禁用了。  
-这时候，只要把 `/ 2` 的操作改成 ` * o.5` 就可以了。
+这时候，只要把 `/ 2` 的操作改成 ` *0.5` 就可以了。
