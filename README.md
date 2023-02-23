@@ -23,3 +23,7 @@
 ## 公众号
 
 ![](http://static.waygc.net/imgs/qrcode/wechat.jpg)
+
+## 友情链接
+* [https://yangandmore.github.io/](https://yangandmore.github.io/)
+* [http://xuchunlei.top/](http://xuchunlei.top/)
