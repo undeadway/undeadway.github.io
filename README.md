@@ -26,4 +26,4 @@
 
 ## 友情链接
 * [https://yangandmore.github.io/](https://yangandmore.github.io/)
-* [http://xuchunlei.top/](http://xuchunlei.top/)
+* [https://xuchunlei.top/](https://xuchunlei.top/)
