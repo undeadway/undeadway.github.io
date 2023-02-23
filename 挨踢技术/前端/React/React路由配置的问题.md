@@ -3,7 +3,7 @@
 # React路由配置的问题
 
 ```
- { path: '/accidents', exact: true, component: Accidents },\
+ { path: '/accidents', exact: true, component: Accidents },
  { path: '/accidents/add', component: AccidentsEdit },
 ```
 
