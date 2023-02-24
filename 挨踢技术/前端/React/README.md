@@ -3,6 +3,11 @@
 
 # React
 
+## 各种网站
+
+* [官网](https://zh-hans.reactjs.org/)
+* [React 官方中文文档](https://react.docschina.org)
+
 ## 笔记
 
 * [hahoorequest](./hahoorequest)

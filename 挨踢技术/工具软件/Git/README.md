@@ -3,6 +3,11 @@
 
 # Git
 
+## 各种网站
+
+* [官网](https://git-scm.com/)
+* [Git for Windows](https://gitforwindows.org/)
+
 ## 笔记
 
 * [git记录登录信息](./git记录登录信息)

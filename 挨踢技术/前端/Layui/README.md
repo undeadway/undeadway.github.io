@@ -3,6 +3,11 @@
 
 # Layui
 
+## 各种网站
+
+* [官网](http://layui.org.cn/index.html)
+* [Layui 开发使用文档](https://layuion.com/docs/)
+
 ## 实例
 
 * [Layui 实际效果演示](http://test-admin.waygc.net/)

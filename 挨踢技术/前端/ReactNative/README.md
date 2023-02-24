@@ -3,6 +3,11 @@
 
 # ReactNative
 
+## 各种网站
+
+* [中文网](https://reactnative.cn)
+* [官网](https://reactnative.dev/)
+
 ## 笔记
 
 * [打包时高德地图的DistrictItem$1类重复的错误问题](打包时高德地图的DistrictItem_1类重复的错误问题)

@@ -3,6 +3,12 @@
 
 # nodejs
 
+## 各种网站
+
+* [官网](https://nodejs.org/)
+* [npm](https://www.npmjs.com/)
+* [中文论坛](https://cnodejs.org/)
+
 ## 目录
 
 * [Electron](./Electron)

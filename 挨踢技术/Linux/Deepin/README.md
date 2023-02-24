@@ -3,6 +3,10 @@
 
 # Deepin
 
+## 各种网站
+
+* [软件仓库](https://www.deepin.org/zh/mirrors/packages/)
+
 ## 笔记
 
 * [Deepin安装wireshark](./Deepin安装wireshark)
