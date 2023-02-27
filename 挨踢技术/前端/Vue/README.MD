@@ -6,7 +6,6 @@
 
 * [官网](https://vuejs.org)
 * [中文网](https://cn.vuejs.org)
-* [web前端面试 - 面试官系列](https://vue3js.cn/interview/)
 
 ## 目录
 
