@@ -3,9 +3,14 @@
 
 # jQuery
 
-## 资源
+## 各种网站
 
+* [官网](https://jquery.com)
 * [jQuery插件库](https://www.jq22.com/)
+
+## 目录
+
+* [Layui](./Layui)
 
 ## 笔记
 
