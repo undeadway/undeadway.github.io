@@ -5,7 +5,6 @@
 
 ## 各种网站
 
-* [web前端面试 - 面试官系列](https://vue3js.cn/interview/)
 * [w3school](https://www.w3school.com.cn/)
 * [菜鸟教程](https://www.runoob.com)
 * [极客时间](https://time.geekbang.org/)
