@@ -18,7 +18,7 @@
 * [React](./React)
 	* [ReactNative](./React/ReactNative)
 * [jQuery](./jQuery)
-* [Layui](./Layui)
+	* [Layui](./jQuery/Layui)
 * [codemirror](./codemirror)
 * [echarts](./echarts)
 * [fontawesome](./fontawesome)
