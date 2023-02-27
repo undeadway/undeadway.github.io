@@ -1,5 +1,6 @@
 [目录](./)
-# http 请求
+
+# 一个 http 封装
 
 1. 封装了 http 的所有请求
 2. 添加针对同一个请求在短时间内大量重复提交时的缓存处理，不至于多次向后台发送
@@ -9,13 +10,12 @@
  * 这里封装了关于 http 请求的所有处理
  */
 import axios from "axios";
-import Vue from "vue";
 import secrecy from "./secrecy";
 
 const URL_MAP = {};
 const http = axios.create({
-	baseURL: process.env.VUE_APP_HTTP_API,
-	timeout: process.env.VUE_APP_HTTP_TIMEOUT
+	baseURL: "",
+	timeout: ""
 });
 
 http.interceptors.request.use(

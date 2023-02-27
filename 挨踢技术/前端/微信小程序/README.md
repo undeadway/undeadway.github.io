@@ -5,7 +5,7 @@
 
 ## 各种网站
 
-* [微信小程序](https://developers.weixin.qq.com/miniprogram/dev/framework/quickstart/)
+* [官方文档](https://developers.weixin.qq.com/miniprogram/dev/framework/quickstart/)
 
 ## 笔记
 

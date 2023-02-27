@@ -24,6 +24,7 @@
 * [fontawesome](./fontawesome)
 * [微信小程序](./微信小程序)
 * [uniapp](./uniapp)
+* [axois](./axois)
 
 ## 基础
 
