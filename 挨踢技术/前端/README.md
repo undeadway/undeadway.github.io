@@ -16,7 +16,7 @@
 	* [Vue2](./Vue/Vue2)
 	* [Vue3](./Vue/Vue3)
 * [React](./React)
-	* [ReactNative](./React/ReactNative)
+	* [React Native](./React/ReactNative)
 * [jQuery](./jQuery)
 	* [Layui](./jQuery/Layui)
 * [codemirror](./codemirror)
