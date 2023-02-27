@@ -23,7 +23,7 @@
 * [echarts](./echarts)
 * [fontawesome](./fontawesome)
 * [微信小程序](./微信小程序)
-* [](./ununiappiapp)
+* [uniapp](./uniapp)
 
 ## 基础
 
