@@ -5,11 +5,6 @@
 
 ![](os-msg.png)
 
-## 各种网站
-
-* [菜鸟教程](https://www.runoob.com)
-* [极客时间](https://time.geekbang.org/)
-
 ## 目录
 
 * [前端](./前端)
