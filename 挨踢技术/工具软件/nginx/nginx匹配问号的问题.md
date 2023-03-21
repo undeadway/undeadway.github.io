@@ -11,4 +11,5 @@
 所以将 ngx 的配置修改为 `/$1/$2?$query_string` 就可以了
 
 
-参考：[https://blog.csdn.net/yongcto/article/details/11815427](https://blog.csdn.net/yongcto/article/details/11815427)
+## 参考
+* [https://blog.csdn.net/yongcto/article/details/11815427](https://blog.csdn.net/yongcto/article/details/11815427)
