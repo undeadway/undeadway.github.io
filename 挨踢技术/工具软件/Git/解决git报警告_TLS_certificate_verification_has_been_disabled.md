@@ -11,3 +11,7 @@
 执行：`git config --global http.sslVerify true`
 
 ![](TLS-certificate-verification-has-been-disabled-result.png)
+
+## 参考
+
+* [https://aka.ms/gcmcore-tlsverify](https://aka.ms/gcmcore-tlsverify)
