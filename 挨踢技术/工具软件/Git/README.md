@@ -10,6 +10,7 @@
 
 ## 笔记
 
+* [ 解决git报警告 TLS certificate verification has been disabled!](./解决git报警告_TLS_certificate_verification_has_been_disabled)
 * [git记录登录信息](./git记录登录信息)
 * [git提交或克隆报错fatal: unable to access](./git提交或克隆报错fatal_unable_to_access)
 * [.gitignore文件不起作用的解决方法](./gitignore文件不起作用的解决方法)
