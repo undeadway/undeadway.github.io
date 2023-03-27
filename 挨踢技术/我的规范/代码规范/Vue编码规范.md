@@ -13,7 +13,7 @@ export default {
 }
 ```
 2. 在自定义函数时，所有通过 `@` 、`v-on` 定义的函数，均以 `on` 开头，  
-在函数中用到 `emit` 处理的时候，函数名中要加上 `emit` 和目标，例：
+在函数中用到 `emit` 处理的时候，函数名中要加上 `emit` 和目标，例：   
 ```
 <input @click="onEmitDetail" />
 
