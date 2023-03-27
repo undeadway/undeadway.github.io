@@ -3,6 +3,11 @@
 
 # Linux
 
+## 各种网站
+
+* [Linux Kernel](https://www.kernel.org)
+* [Linux.org](https://www.linux.org/)
+
 ## 目录
 
 * [Deepin](./Deepin)

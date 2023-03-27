@@ -3,9 +3,15 @@
 
 # Debian
 
-## 资源
+## 各种网站
 
+* [官网](https://www.debian.org/)
+* [中文社区](https://debiancn.org)
 * [Debian 软件包](https://www.debian.org/distrib/packages)
+
+## 目录
+
+* [Ubuntu](./Ubuntu)
 
 ## 笔记
 
