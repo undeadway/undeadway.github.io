@@ -8,7 +8,7 @@
 * [官网](https://element.eleme.cn)
 
 ## 笔记
-
+* [表格自动滚动](./表格自动滚动)
 * [双重dialog](./双重dialog)
 * [ElementUI日期组件用v-if显示时，样式出错](./ElementUI日期组件用v-if显示时，样式出错)
 * [密码相关](./密码相关)
