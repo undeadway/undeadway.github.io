@@ -5,7 +5,7 @@
 ## 各种网站
 
 * [官网](https://axios-http.com)
-* [axios中文文档](www.axios-js.com/zh-cn/docs/index.html)
+* [axios中文文档](http://www.axios-js.com/zh-cn/docs/index.html)
 * [Axios 中文网](https://www.axios-http.cn)
 
 ## 代码
