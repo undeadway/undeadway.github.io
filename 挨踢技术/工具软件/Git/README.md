@@ -6,6 +6,8 @@
 ## 各种网站
 
 * [官网](https://git-scm.com/)
+* [GitHub](https://github.com/)
+* [Gitee](https://gitee.com/)
 * [Git for Windows](https://gitforwindows.org/)
 
 ## 笔记

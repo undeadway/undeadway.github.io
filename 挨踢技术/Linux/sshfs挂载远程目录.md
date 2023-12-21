@@ -19,3 +19,13 @@ sshfs#@远程IP:/远程目录 /本地想要挂载的目录 fuse.sshfs defaults 0
 ```
 
 待查。
+
+## 脚本
+```
+#!/usr/bin/expect
+set timeout 30
+spawn  -ignore HUP sshfs 远程用户@远程IP:/远程目录 /本地想要挂载的目录 -p 22
+expect "*password:"
+send "你的密码"
+interact
+```
