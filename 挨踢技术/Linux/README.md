@@ -13,6 +13,7 @@
 * [Deepin](./Deepin)
 * [CentOS](./CentOS)
 * [Debian](./Debian)
+* [Ubuntu](./Ubuntu)
 
 ## 笔记
 
