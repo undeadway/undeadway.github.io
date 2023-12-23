@@ -13,3 +13,7 @@
 * [JavaScript](./JavaScript)
 * [TypeScript](./TypeScript)
 * [Shell](./Shell)
+
+## 笔记
+
+* [基础啊基础！出在 switch case 上的一个大失败！](./出在switch_case上的一个大失败)
