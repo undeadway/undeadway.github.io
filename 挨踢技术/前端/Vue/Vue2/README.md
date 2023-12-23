@@ -14,8 +14,6 @@
 * [在main.js中使用import进来的内容](./在main_js中使用import进来的内容)
 * [打包组件为通用包给其他项目使用](./打包组件为通用包给其他项目使用)
 * [click阻止事件冒泡](./click阻止事件冒泡)
-* [前端加密](./前端加密)
-* [vue-ls](./vue-ls)
 * [配置webpack的gzip压缩](./配置webpack的gzip压缩)
 * [watch中引用this](./watch中引用this)
 * [在script标签中引用filter](./在script标签中引用filter)
@@ -36,5 +34,8 @@
 * [No ESLint configuration found](./No_ESLint_configuration_found)
 
 ## 代码片段
+
+* [前端加密](./前端加密)
+* [vue-ls](./vue-ls)
 * [pdf](./pdf)
 * [文件处理](./文件处理)

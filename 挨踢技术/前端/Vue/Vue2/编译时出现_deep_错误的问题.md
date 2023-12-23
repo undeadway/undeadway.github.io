@@ -14,5 +14,6 @@ SassError: expected selector.
   /home/waygc/workspace/myproject/myproject-web/src/core/views/sign/in.vue 258:2  root stylesheet
 ```
 
-解决方案：
+## 解决方案
+
 把 `/deep/` 改成 `::v-deep` 即可。
