@@ -33,4 +33,6 @@ export default {
 不要直接引用 props 的内容，将其赋值给 data 即可。  
 是否有更适合的方式，待研究。
 
-参考：[https://blog.csdn.net/u013948858/article/details/118342541](https://blog.csdn.net/u013948858/article/details/118342541)
+## 参考
+
+* [https://blog.csdn.net/u013948858/article/details/118342541](https://blog.csdn.net/u013948858/article/details/118342541)
