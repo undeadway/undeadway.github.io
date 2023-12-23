@@ -8,4 +8,6 @@ npm install pkg --save-dev
 pkg -o ./dist/xxxxx  -t node12 index.js
 ```
 
-参考：[记用nodejs转发http请求](http://waygc.net/blog/read/1621938679496)
+## 参考
+
+* [记用nodejs转发http请求](./记用nodejs转发http请求)

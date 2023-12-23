@@ -15,6 +15,7 @@
 
 ## 笔记
 
+* [记用nodejs转发http请求](./记用nodejs转发http请求)
 * [从fs.stat的返回值中的mode说起](./从fs_stat的返回值中的mode说起)
 * [linux对jsdom的支持不友好](./linux对jsdom的支持不友好)
 * [nodejs 打包本地应用程序](./nodejs打包本地应用程序)
