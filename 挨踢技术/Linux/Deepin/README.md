@@ -5,6 +5,7 @@
 
 ## 各种网站
 
+* [官网论坛](https://bbs.deepin.org/)
 * [软件仓库](https://www.deepin.org/zh/mirrors/packages/)
 
 ## 笔记
