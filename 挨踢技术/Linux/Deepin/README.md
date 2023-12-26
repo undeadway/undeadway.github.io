@@ -9,6 +9,7 @@
 
 ## 笔记
 
+* [Deepin删除自带的浏览器](./Deepin删除自带的浏览器)
 * [Deepin安装wireshark](./Deepin安装wireshark)
 * [Deepin安装webbench](./Deepin安装webbench)
 * [Anbox启动项](./anbox启动项)
