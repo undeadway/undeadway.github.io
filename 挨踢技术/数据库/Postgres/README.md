@@ -5,7 +5,6 @@
 
 ## 笔记
 
-* [psql命令集](./psql命令集)
 * [操作符不是唯一的: unknown * unknown](./操作符不是唯一的_unknown_unknown)
 * [PG 提示 SQL 错误 42501: ERROR: permission denied for relation 的问题](./PG提示SQL错误_52501_ERROR_permission_denied_for_relation的问题)
 * [postgres 修改用户密码](./postgres修改用户密码)
