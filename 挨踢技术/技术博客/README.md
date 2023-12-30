@@ -18,3 +18,4 @@
 * [记用nodejs转发http请求](/挨踢技术/nodejs/记用nodejs转发http请求)
 * [Linux服务器搭建-Redis与FastDFS](https://xuchunlei.top/2020/02/11/Linux服务器搭建-Redis与FastDFS/)
 * [鱼与熊掌不可得兼的数据统计和图片引用（盗链）](/挨踢技术/安全/鱼与熊掌不可得兼的数据统计和图片引用_盗链)
+* [【Postgres】一点国际化的小坑](/挨踢技术/数据库/Postgres/一点国际化的小坑)
