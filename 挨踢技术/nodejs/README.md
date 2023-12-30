@@ -26,6 +26,7 @@
 * [安装不存在于 npm 库中的包](./安装不存在于npm库中的包)
 * [hasOwnProperty is no a function](./hasOwnProperty_is_no_a_function)
 * [记一次恶心到家的错误调查](./记一次恶心到家的错误调查)
+* [坑爹的 querystring，坑爹的 %](坑爹的querystring坑爹的%)
 
 ## 代码片段
 
