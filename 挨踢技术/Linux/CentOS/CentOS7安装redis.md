@@ -88,3 +88,7 @@ systemctl disable redis # 配置redis开机不自动启动
 1. 注释掉 bind 127.0.0.1
 2. protected-mode 修改为 nos
 3. 设置用户名密码 找到 requirepass，这是密码即可
+
+## 参考
+
+* [Linux服务器搭建-Redis与FastDFS](https://xuchunlei.top/2020/02/11/Linux服务器搭建-Redis与FastDFS/)

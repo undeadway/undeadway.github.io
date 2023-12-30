@@ -15,6 +15,7 @@
 
 ## 笔记
 
+* [打包一份 appimage 程序](./打包一份appimage程序)
 * [记用nodejs转发http请求](./记用nodejs转发http请求)
 * [从fs.stat的返回值中的mode说起](./从fs_stat的返回值中的mode说起)
 * [linux对jsdom的支持不友好](./linux对jsdom的支持不友好)
