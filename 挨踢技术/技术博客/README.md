@@ -33,5 +33,5 @@
 * [VB.NET 的伪进度条实现的一点记录](VB_NET的伪进度条实现的一点记录)
 * [记一次恶心到家的错误调查](/挨踢技术/nodejs/记一次恶心到家的错误调查)
 * [JS 中 isFinite 的一个坑](/挨踢技术/前端/JavaScript/坑/isFinite)
-* [坑爹的 querystring，坑爹的 %](/挨踢技术/nodejs/坑爹的querystring坑爹的%)
+* [坑爹的 querystring，坑爹的 %](/挨踢技术/nodejs/坑爹的querystring坑爹的_bfh)
 * [[C语言学习]之双重指针 ](C语言学习之双重指针)
