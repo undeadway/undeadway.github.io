@@ -31,3 +31,5 @@
 * [[面向StackOverflow编程]UPDATE SELECT的结果集到数据库中](/挨踢技术/数据库/Postgres/面向StackOverflow编程_UPDATE_SELECT的结果集到数据库中)
 * [记一次失败的项目统筹管理](/挨踢技术/项目管理/记一次失败的项目统筹管理)
 * [VB.NET 的伪进度条实现的一点记录](VB_NET的伪进度条实现的一点记录)
+* [记一次恶心到家的错误调查](/挨踢技术/nodejs/记一次恶心到家的错误调查)
+* [JS 中 isFinite 的一个坑](/挨踢技术/前端/JavaScript/坑/isFinite)
