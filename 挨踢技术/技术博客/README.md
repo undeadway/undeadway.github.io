@@ -30,3 +30,4 @@
 * [postgres 使用 union 查询时的一个小坑](/挨踢技术/数据库/Postgres/postgres使用union查询时的一个小坑)
 * [[面向StackOverflow编程]UPDATE SELECT的结果集到数据库中](/挨踢技术/数据库/Postgres/面向StackOverflow编程_UPDATE_SELECT的结果集到数据库中)
 * [记一次失败的项目统筹管理](/挨踢技术/项目管理/记一次失败的项目统筹管理)
+* [VB.NET 的伪进度条实现的一点记录](VB_NET的伪进度条实现的一点记录)
