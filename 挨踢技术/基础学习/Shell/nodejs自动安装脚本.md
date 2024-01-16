@@ -5,13 +5,14 @@
 1. 把下载下来的二进制压缩包和 `gnpm.sh` 放在同一个目录下；
 2. 执行下面的主体文件
 
-主体文件：
+#### 主文件
+
 ```
 #!/bin/bash
 
 tar zxf node-v12.17.0-linux-x64.tar.gz
-chmod 755 ./gnpm.sh
 cp ./gnpm.sh ./node-v12.17.0-linux-x64
+chmod 755 ./node-v12.17.0-linux-x64/gnpm.sh
 
 sudo rm -rf /opt/node-v12.17.0-linux-x64
 sudo cp -r ./node-v12.17.0-linux-x64 /opt
@@ -30,13 +31,15 @@ sudo ln -s /opt/node-v12.17.0-linux-x64/gnpm.sh /usr/bin/gnpm
 
 cd ~
 
+npm config set registry https://registry.npm.taobao.org
+
 gnpm install cnpm
 gnpm install yarn
 gnpm install webpack
 gnpm install webpack-cli
 ```
 
-gnpm.sh：
+#### gnpm.sh
 ```
 #!/bin/bash
 

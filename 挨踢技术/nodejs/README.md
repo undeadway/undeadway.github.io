@@ -13,6 +13,9 @@
 
 * [Electron](./Electron)
 
+## nodejs自动安装脚本
+[nodejs自动安装脚本](/挨踢技术/基础学习/Shell/nodejs自动安装脚本)
+
 ## 笔记
 
 * [打包一份 appimage 程序](./打包一份appimage程序)
