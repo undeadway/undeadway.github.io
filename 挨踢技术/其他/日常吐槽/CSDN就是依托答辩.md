@@ -13,13 +13,12 @@
 好家伙，结果几天真让我遇到了这么一坨……  
 本来是想去抄一下通过 marked 来高亮代码的，找到了 CSDN 中某篇帖子，一看，似乎还挺靠谱，就粘贴复制。
 
-[https://blog.csdn.net/King__k/article/details/123475346](https://blog.csdn.net/King__k/article/details/123475346)
-
 结果嘛……
 
 先把人家的代码贴在这里，齐文共欣赏。
 
-![](./highlight-code-csdn.png)
+[![](./highlight-code-csdn.png)](https://blog.csdn.net/King__k/article/details/123475346)
+
 
 代码看完了吧，看完了开始分析一下这段代码。
 
@@ -36,7 +35,7 @@
 这样一来，输出的不就变成了下面这样了么？
 ![](./highlight-code-csdn-1-1.png)
 
-哦，对了，我差点忘了作者你的 i 为啥从 1 开始？  
+哦，对了，我差点忘了问，作者你的 i 为啥从 1 开始？  
 如果是为了避免拿到第一行，那你最后为啥又不在 rowCount 上剪1，去掉最后一行呢？
 
 当然，可以说这就是为了展示一下 ol 列效果而已，最后的替换要自己干云云，那我也就认了吧……
@@ -67,7 +66,9 @@ appendChild？
 
 所以，这里不能用 `outerHTMl`，而应该用 `innerHTML` 。
 
-等代码改完，一刷新页面，你就会很开心的发现，代码变成了下面这个样子。  
+或许之前猜人家的 i 从 1开始真是因为要取到最外面的那层 html 结构？
+
+等把这里的代码改完，一刷新页面，你就会很开心的发现，代码变成了下面这个样子。  
 ![](highlight-code-csdn-wtf.png)
 
 一口老血吐出……
