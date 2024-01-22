@@ -14,6 +14,7 @@
 * [CentOS](./CentOS)
 * [Debian](./Debian)
 * [Ubuntu](./Ubuntu)
+* [Shell](./Shell)
 
 ## 笔记
 

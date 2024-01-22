@@ -31,6 +31,7 @@
 * [HTML](./HTML)
 * [JavaScript](./JavaScript)
 	* [坑](./JavaScript/坑)
+* [TypeScript](./TypeScript)
 * [CSS](./CSS)
 * [HTTP](./HTTP)
 * [浏览器](./浏览器)
