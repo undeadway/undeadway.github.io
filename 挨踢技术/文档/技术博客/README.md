@@ -38,3 +38,4 @@
 * [JS 中 isFinite 的一个坑](/挨踢技术/前端/JavaScript/坑/isFinite)
 * [坑爹的 querystring，坑爹的 %](/挨踢技术/nodejs/坑爹的querystring坑爹的_bfh)
 * [[C语言学习]之双重指针 ](C语言学习之双重指针)
+* [isFinite](/挨踢技术/前端/JavaScript/坑/isFinite)
