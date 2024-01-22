@@ -5,6 +5,7 @@
 
 ## 笔记
 
+* [certificate has expire](./certificate_has_expire)
 * [Module parse failed: Unexpected token](./Module_parse_failed_Unexpected_token)
 * [yarn安装node-sass失败](yarn安装node_sass失败)
 * [yarn 报 Found incompatible module 错误](./yarn报_Found_incompatible_module错误)
