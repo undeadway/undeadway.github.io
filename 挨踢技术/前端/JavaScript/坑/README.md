@@ -9,3 +9,4 @@
 
 * [Math.max](./Math_max)
 * [isNaN](./isNaN)
+* [isFinite](./isFinite)
