@@ -13,6 +13,7 @@
 
 ## 博客
 
+* [仿 vue-seamless-scroll 的 switch 控制切换的走马灯功能](/挨踢技术/前端/Vue/Vue2/仿vue-seamless-scroll_switch控制)
 * [CSDN就是依托答辩](/挨踢技术/其他/日常吐槽/CSDN就是依托答辩)
 * [关于对数在前端的一个使用范例](/挨踢技术/前端/关于对数在前端的一个使用范例)
 * [火狐手动安装 uBlock 扩展屏蔽广告](/挨踢技术/工具软件/Firefox/火狐手动安装uBlock扩展屏蔽广告)

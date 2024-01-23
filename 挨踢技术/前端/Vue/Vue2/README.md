@@ -36,6 +36,7 @@
 
 ## 代码片段
 
+* [仿 vue-seamless-scroll 的 switch 控制切换的走马灯功能](./仿vue-seamless-scroll_switch控制)
 * [前端加密](./前端加密)
 * [vue-ls](./vue-ls)
 * [pdf](./pdf)
