@@ -26,7 +26,7 @@ FreiendFeed现在使用的是一个用 Python 写的，名叫Tornado非阻塞框
 nodejs 也还不完善，所以如果想要用它开发一个应用程序，那就得自己写很多底层（low level）代码。但随着下一代浏览器开始使用WebSocket（完全不需要长轮询），这种类型的web开发技术也会越来越重要。我希望我能让你的脑子里对这些东西有了一个概念，并准备去尝试它一下。
 
 
-注解
+## 注释
 
 [^注0]: comet 我查不到怎么用中文表达。简单解释，就是一种推送技术，具体可以参考维基百科：（英）Comet_(programming)，（中）Comet_(web技术)。  
 [^注1]: 这里的原文是“without grinding to a near halt and using up all your resources.”，前半句“without grinding to a near halt”有些没理解，所以这里暂时望文生义地翻译成“让你的网站卡死”。  
