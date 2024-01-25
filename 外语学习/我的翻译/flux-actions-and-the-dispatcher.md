@@ -8,7 +8,7 @@
 
 ## 正文
 
-Flux<sup id="a0">[^0](#f0)</sup> 是 Facebook 用于构建 JavaScript程序 的一种软件架构。它的基础是单向数据流（unidirectional data flow）。我们通过 Flux 构建了从小工具到大程序的各种东西。它能处理所有我们交给它的任务。因为我们发现它是构建代码的好办法，所以我们非常激动地将其贡献给了开源社区。Jing Chen 在 [F8 大会]<sup id="a1">[^0](#f1)</sup> 提出了 Flux，从那之后我们看见了很多关于 Flux 的介绍。我们也同样公开了一个[附带教程](https://facebook.github.io/flux/docs/todo-list.html) 的 [Flux概述（Overview of Flux）](https://facebook.github.io/flux/docs/overview.html) 和一个 [TodoMVC 示例](https://github.com/facebook/flux/tree/master/examples/flux-todomvc/)
+Flux <sup id="a0"><a href="#f0">[^0]</a></sup> 是 Facebook 用于构建 JavaScript程序 的一种软件架构。它的基础是单向数据流（unidirectional data flow）。我们通过 Flux 构建了从小工具到大程序的各种东西。它能处理所有我们交给它的任务。因为我们发现它是构建代码的好办法，所以我们非常激动地将其贡献给了开源社区。Jing Chen 在 [F8 大会]<sup id="a1">[^0](#f1)</sup> 提出了 Flux，从那之后我们看见了很多关于 Flux 的介绍。我们也同样公开了一个[附带教程](https://facebook.github.io/flux/docs/todo-list.html) 的 [Flux概述（Overview of Flux）](https://facebook.github.io/flux/docs/overview.html) 和一个 [TodoMVC 示例](https://github.com/facebook/flux/tree/master/examples/flux-todomvc/)
 
 Flux 与其说是一种成熟的框架，不如说是一种模式，甚至可以完全不用去管 React 中的大量新代码去开始使用它。虽然直到最近我们都没有还没有发布 Flux软件 中最重要的部分：分发器。但随着新的 [Flux代码仓库](https://github.com/facebook/flux](https://github.com/facebook/flux) 和 [Flux官网](https://facebook.github.io/flux/](https://facebook.github.io/flux/) 的建立，我们终于开源了在我们自己的项目中用到的同款[分发器](https://facebook.github.io/flux/docs/dispatcher.html](https://facebook.github.io/flux/docs/dispatcher.html)。
 
