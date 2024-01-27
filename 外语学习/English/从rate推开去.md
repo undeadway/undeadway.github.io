@@ -1,9 +1,9 @@
 [目录](./)
 # 从 rate 推开去
 
-rate（比例）->
-ration（定量）->
-rational（合理的、有理数）->
+rate（比例）->  
+ration（定量）->  
+rational（合理的、有理数）->  
 rationale（基本原理）
 
 其他还有包括
