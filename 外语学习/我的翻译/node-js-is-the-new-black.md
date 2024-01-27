@@ -16,21 +16,20 @@
 但现在让我们去构建一个类似 FriendFeed的网站，所有用户都在实时刷信息。解决方法只有让每个用户实时保持一个可用的链接。最简单的实现方式就是使用长轮询。
 长轮询其实让HTTP看起来像是持续链接：不管页面是不是有需要，只要加载就向服务器发送ajax请求。但是不像普通的ajax请求，服务器并不会马上响应，而是一直等待在那里，直到服务器认为该响应点什么东西给浏览器的时候。比如你的朋友新发了一条朋友圈，服务器就会把这些推送给浏览器，然后告诉浏览器可以更新显示了。当浏览器接受到这些信息，就会发送一个新的请求到服务器上，并再次等待着服务器的回信。
 
-让我们来想像一下这对apache之类的传统服务器意味着要为每个新用户建立一个链接，并保持畅通。每个连接都需要一个进程，每个进程的大部分时间要么是干等着（消耗内存），要么等待数据库完成查询。这意味着你很难提升链接数，除非让你的网站卡死，要么耗尽服务器的资源。<sup id="a0"><a href="#f0">注1</a></sup>
+让我们来想像一下这对apache之类的传统服务器意味着要为每个新用户建立一个链接，并保持畅通。每个连接都需要一个进程，每个进程的大部分时间要么是干等着（消耗内存），要么等待数据库完成查询。这意味着你很难提升链接数，除非让你的网站卡死，要么耗尽服务器的资源。<sup id="a1"><a href="#f1">注1</a></sup>
 
 所以解决方案呢？这里必须复习一下之前提到过的两个转有名词：非阻塞和事件驱动。不管其他情况，仅在这里这些术语并不比你想像的更可怕。一个非阻塞服务器就是一直在做循环（loop）：一遍又一遍的循环。当有请求的时候，循环捕获住这个请求，并将他交给一个单独的进程（比如数据库查询），并设置一个回调（callback），然后就继续循环等待下一个请求。服务器并不占着内存傻等等数据库的返回。
 如果数据库的查询有结果了，没问题，我们用同样的方法来处理：把处理结果丢还给客户端（client），然后继续循环。从理论上来说，这会让数据库查询数没有任何等待限制，或者客户端也一样。因为你的服务器并不花时间去等待它们。你是让他们自己管自己，以及要说一下什么是事件驱动：服务器只会在有事情发生的时候才会做出反应。可以是一个请求，可以是文件加载完毕，也可以是数据库查询结果，不一而定。
 
-FreiendFeed现在使用的是一个用 Python 写的，名叫Tornado非阻塞框架来解决这个问题。Nginx也是这么干的<sup id="a0"><a href="#f0">注2</a></sup>。nodejs，它手中的王牌就是：使用javascript，并运行在GoogleV8那疯狂的引擎上。它从来不用担心一个请求是否会对另一段代码造成循环阻塞。因为javascript天生就是事件驱动的。回想一下：当你在浏览器中写 javascript 的时候，你总是在处理各种事件句柄（handle）和回调函数。javascript 就是被这么设计的。
+FreiendFeed现在使用的是一个用 Python 写的，名叫Tornado非阻塞框架来解决这个问题。Nginx也是这么干的<sup id="a2"><a href="#f2">注2</a></sup>。nodejs，它手中的王牌就是：使用javascript，并运行在GoogleV8那疯狂的引擎上。它从来不用担心一个请求是否会对另一段代码造成循环阻塞。因为javascript天生就是事件驱动的。回想一下：当你在浏览器中写 javascript 的时候，你总是在处理各种事件句柄（handle）和回调函数。javascript 就是被这么设计的。
 
 nodejs 也还不完善，所以如果想要用它开发一个应用程序，那就得自己写很多底层（low level）代码。但随着下一代浏览器开始使用WebSocket（完全不需要长轮询），这种类型的web开发技术也会越来越重要。我希望我能让你的脑子里对这些东西有了一个概念，并准备去尝试它一下。
 
-
 ## 注释
 
-<span id="f0"><a href="#a0">注0</a></span> comet 我查不到怎么用中文表达。简单解释，就是一种推送技术，具体可以参考维基百科：（英）Comet_(programming)，（中）Comet_(web技术)。  
-<span id="f0"><a href="#a0">注1</a></span> 这里的原文是“without grinding to a near halt and using up all your resources.”，前半句“without grinding to a near halt”有些没理解，所以这里暂时望文生义地翻译成“让你的网站卡死”。  
-<span id="f0"><a href="#a0">注2</a></span> 感觉这里的这句“ The nginx web server also behaves in this way. ”有些脱离上下文，不知道原作者写这句话的意思是什么，可能是想说 nginx 也是事件驱动的。但只是我的猜想，所以仅供参考。nginx 和 apache的对比，可以参考segmentfault 上的这篇文章：Apache—MPMs && Nginx事件驱动
+<span id="f0"><a href="#a0">注0</a></span> comet 我查不到怎么用中文表达。简单解释，就是一种推送技术，具体可以参考维基百科：（英）Comet\_(programming)，（中）Comet\_(web技术)。  
+<span id="f1"><a href="#a1">注1</a></span> 这里的原文是“without grinding to a near halt and using up all your resources.”，前半句“without grinding to a near halt”有些没理解，所以这里暂时望文生义地翻译成“让你的网站卡死”。  
+<span id="f2"><a href="#a2">注2</a></span> 感觉原文里的的这句“ The nginx web server also behaves in this way. ”有些脱离上下文，怎么就突然冒出个 nginx 来。不知道原作者写这句话的意思是什么，可能是想说 nginx 也是事件驱动的。但只是我的猜想，所以仅供参考。nginx 和 apache的对比，可以参考segmentfault 上的这篇文章：[Apache—MPMs && Nginx事件驱动](https://segmentfault.com/a/1190000007875157)
 
 
 ## 原文
