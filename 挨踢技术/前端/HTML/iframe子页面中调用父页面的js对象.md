@@ -35,7 +35,7 @@ A.html
 ```
 
 B.html
-
+```
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
  <head>
@@ -61,6 +61,7 @@ B.html
   <p><input type="button" value="exec main function" οnclick="exec_main()"></p>
  </body>
 </html>
+```
 
 以上方法针对 chrome 无效，原因参考：[https://stackoverflow.com/questions/29983786/blocked-a-frame-of-origin-null-from-accessing-a-cross-origin-frame-chrome](https://stackoverflow.com/questions/29983786/blocked-a-frame-of-origin-null-from-accessing-a-cross-origin-frame-chrome)
 
