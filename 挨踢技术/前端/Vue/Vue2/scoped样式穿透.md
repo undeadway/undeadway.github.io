@@ -26,3 +26,4 @@ SassError: expected selector.
 ## 参考
 
 * [iview - css >>> 、 /deep/ 进行样式穿透](https://blog.csdn.net/idomyway/article/details/94659598)
+* [vue样式穿透 ::v-deep的具体使用](https://juejin.cn/post/6981341589763260430)
