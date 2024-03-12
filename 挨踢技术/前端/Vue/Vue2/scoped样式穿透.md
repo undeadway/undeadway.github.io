@@ -25,4 +25,4 @@ SassError: expected selector.
 
 ## 参考
 
-[iview - css >>> 、 /deep/ 进行样式穿透](https://blog.csdn.net/idomyway/article/details/94659598)
+* [iview - css >>> 、 /deep/ 进行样式穿透](https://blog.csdn.net/idomyway/article/details/94659598)
