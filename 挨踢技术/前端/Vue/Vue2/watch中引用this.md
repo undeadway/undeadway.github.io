@@ -12,4 +12,5 @@
 	}
 ```
 
-与之类似，`compouted` 中也只能用 `function` 才能引用 `this` 。
+与之类似，`provide` 、 中也只能用 `function` 才能引用 `this` 。  
+其他运算类操作估计也一样，不再一一列举。
