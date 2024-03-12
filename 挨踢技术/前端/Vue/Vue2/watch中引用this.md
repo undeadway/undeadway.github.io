@@ -11,3 +11,5 @@
 		}
 	}
 ```
+
+与之类似，`compouted` 中也只能用 `function` 才能引用 `this` 。
