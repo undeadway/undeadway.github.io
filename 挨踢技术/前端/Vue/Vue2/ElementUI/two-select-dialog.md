@@ -8,6 +8,7 @@
     :visible.sync="centerDialogVisible"
     class="dialog-comment-box"
     :width="width"
+    @close="onClose"
     center>
     <slot></slot>
     <span slot="footer" class="dialog-footer">
@@ -42,6 +43,9 @@ export default {
     },
     onCommit () {
       this.$emit("commit");
+    },
+    onClose () {
+        this.$emit("close");
     }
   }
 }
