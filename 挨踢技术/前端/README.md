@@ -29,14 +29,11 @@
 * [uniapp](./uniapp)
 * [axios](./axios)
 * [高德地图](./高德地图)
-
-## 基础
-
-* [HTML](./HTML)
-* [JavaScript](./JavaScript)
-	* [坑](./JavaScript/坑)
+* [JavaScript 基础](./JavaScript基础)
+	* [坑](./JavaScript基础/坑)
 * [TypeScript](./TypeScript)
 * [CSS](./CSS)
+* [HTML](./HTML)
 * [HTTP](./HTTP)
 * [浏览器](./浏览器)
 * [开发环境](./开发环境)
