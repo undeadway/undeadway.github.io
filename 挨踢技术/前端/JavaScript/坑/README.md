@@ -7,7 +7,7 @@
 
 ## 笔记
 
-* [小数计算](.小数计算)
+* [小数计算](./小数计算)
 * [Math.max](./Math_max)
 * [isNaN](./isNaN)
 * [isFinite](./isFinite)
