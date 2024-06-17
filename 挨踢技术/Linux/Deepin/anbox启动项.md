@@ -16,5 +16,11 @@ Terminal=false
 Type=Application
 ```
 
+## uengine 安装本地 apk 文件
+
+> uengine install --apk=~/Downloads/via-release-cn.apk
+
+但通过此种安装方式，应用图标不会出现在开始菜单中。
+
 ## 参考
 [https://bbs.deepin.org/zh/post/223044](https://bbs.deepin.org/zh/post/223044)
