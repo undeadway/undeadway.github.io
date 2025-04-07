@@ -9,6 +9,6 @@
 
 ## 目录
 
-* [uView-ui](./uView-ui)
+* [uView-ui](./uviewui)
 
 ## 笔记

@@ -13,7 +13,7 @@
 * [Vue2](./Vue2)
 * [Vue3](./Vue3)
 * [Uniapp](./uniapp)
-    * [uView-ui](.//uniapp/uView-ui)
+    * [uView-ui](./uniapp/uviewui)
 
 ## 笔记
 
