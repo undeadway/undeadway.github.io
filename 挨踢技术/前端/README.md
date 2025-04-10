@@ -18,7 +18,7 @@
 			* [jeecg](./Vue/Vue2/antd/jeecg)
 		* [vant](./Vue/Vue2/vant)
 	* [Vue3](./Vue/Vue3)
-	* [Uniapp](./uniapp)
+	* [Uniapp](./Vue/uniapp)
 		* [uView-ui](./Vue/uniapp/uviewui)
 * [React](./React)
 	* [React Native](./React/ReactNative)
