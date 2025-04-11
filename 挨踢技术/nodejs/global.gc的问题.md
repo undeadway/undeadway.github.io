@@ -24,4 +24,8 @@
 pm2 start -i 1 -o ./logs/out.log -e ./logs/err.log ./index.js --name [online]
 ```
 
-看来，要继续去研究一下 pm2 的参数了。
+研究后应该可以这么写
+
+```
+ pm2 start -i 1 -o ../logs/out.log -e ../logs/err.log ./index.js --name [online]  --node-args="--expose-gc"
+```
