@@ -32,6 +32,8 @@
 * [从fs.stat的返回值中的mode说起](/挨踢技术/nodejs/从fs_stat的返回值中的mode说起)
 * [基础啊基础！出在 switch case 上的一个大失败！](/挨踢技术/基础学习/出在switch_case上的一个大失败)
 * [记一次跨域的解决方案](/挨踢技术/前端/记一次跨域的解决方案)
+* [打包时高德地图的DistrictItem$1类重复的错误问题](/挨踢技术/前端/React/ReactNative/打包时高德地图的DistrictItem_1类重复的错误问题)
+* [程序包com.facebook.react不存在不存在错误](/挨踢技术/前端/React/ReactNative/程序包com_facebook_react不存在不存在错误)
 * [记一次阿里云的安全处理](/挨踢技术/安全/记一次阿里云的安全处理)
 * [操作符不是唯一的: unknown * unknown](/挨踢技术/数据库/Postgres/操作符不是唯一的_unknown_unknown)
 * [CentOS7安装redis](/挨踢技术/Linux/CentOS/CentOS7安装redis)
