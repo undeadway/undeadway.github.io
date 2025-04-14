@@ -27,6 +27,7 @@
 * [CSDN就是依托答辩](/挨踢技术/其他/日常吐槽/CSDN就是依托答辩)
 * [带append的input输入框的横向对齐的问题](/挨踢技术/前端/Vue/Vue2/ElementUI/带append的input输入框的横向对齐的问题)
 * [el-table-column type=selection 出现三个点的问题](/挨踢技术/前端/Vue/Vue2/ElementUI/el_table_column_type_selection出现三个点的问题)
+* [eltable 中因为 vif velse 造成的 template 显示不正常的问题](/挨踢技术/前端/Vue/Vue2/ElementUI/eltable中因为vif_velse造成的template显示不正常的问题)
 * [关于对数在前端的一个使用范例](/挨踢技术/前端/关于对数在前端的一个使用范例)
 * [火狐手动安装 uBlock 扩展屏蔽广告](/挨踢技术/前端/浏览器/Firefox/火狐手动安装uBlock扩展屏蔽广告)
 * [Vue打包组件为通用包给其他项目使用](/挨踢技术/前端/Vue/Vue2/打包组件为通用包给其他项目使用)
