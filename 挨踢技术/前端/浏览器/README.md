@@ -1,8 +1,9 @@
+
 [上一层](../)
 
 # 浏览器
 
-## 笔记
+## 目录
 
-* [chrome 设置跨域模式](./chrome设置跨域模式)
-
+* [Chrome](./Chrome)
+* [Firefox](./Firefox)
