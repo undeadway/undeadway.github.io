@@ -42,6 +42,7 @@
 * [【Postgres】一点国际化的小坑](/挨踢技术/数据库/Postgres/一点国际化的小坑)
 * [postgres 使用 union 查询时的一个小坑](/挨踢技术/数据库/Postgres/postgres使用union查询时的一个小坑)
 * [[面向StackOverflow编程]UPDATE SELECT的结果集到数据库中](/挨踢技术/数据库/Postgres/面向StackOverflow编程_UPDATE_SELECT的结果集到数据库中)
+* [了解跨域](/挨踢技术/前端/HTTP/了解跨域)
 * [记一次失败的项目统筹管理](/挨踢技术/项目管理/记一次失败的项目统筹管理)
 * [`let`和`var`之间的那些事儿](/挨踢技术/前端/JavaScript/let和var之间的那些事儿)
 * [从一次样式变更的作业展开说一下思维误区](./从一次样式变更的作业展开说一下思维误区)
