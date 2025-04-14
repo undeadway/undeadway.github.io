@@ -42,6 +42,7 @@
 * [ElementUI日期组件用v-if显示时，样式出错](/挨踢技术/前端/Vue/Vue2/ElementUI/ElementUI日期组件用v-if显示时，样式出错)
 * [打包一份 appimage 程序](/挨踢技术/nodejs//打包一份appimage程序)
 * [记用nodejs转发http请求](/挨踢技术/nodejs/记用nodejs转发http请求)
+* [global.gc的问题](/挨踢技术/nodejs/global.gc的问题)
 * [鱼与熊掌不可得兼的数据统计和图片引用（盗链）](/挨踢技术/安全/鱼与熊掌不可得兼的数据统计和图片引用_盗链)
 * [word文档转HTML的一些踩坑记录](./word文档转HTML的一些踩坑记录)
 * [【Postgres】一点国际化的小坑](/挨踢技术/数据库/Postgres/一点国际化的小坑)
