@@ -14,7 +14,7 @@
 ## 博客
 
 * [actionsheet数据太多时的坑](/挨踢技术/前端/Vue/uniapp/uviewui/actionsheet数据太多时的坑)
-* [页面开合收放](/挨踢技术/前端/CSS/开合收放)
+* [CSS实现页面开合收放](/挨踢技术/前端/CSS/CSS实现页面开合收放)
 * [React编译到二级目录下时遇到一些坑](/挨踢技术/前端/React/React编译到二级目录下时遇到一些坑)
 * [用 MHTML 输出 MD 的文档](./用MHTML输出MD的文档)
 * [一个似乎是 markedjs 的 bug](/挨踢技术/前端/一个似乎是markedjs的bug)
