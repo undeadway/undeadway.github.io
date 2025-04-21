@@ -24,6 +24,7 @@
 	* [React Native](./React/ReactNative)
 * [jQuery](./jQuery)
 	* [Layui](./jQuery/Layui)
+* [Anglur](./Anglur)
 * [codemirror](./codemirror)
 * [echarts](./echarts)
 * [fontawesome](./fontawesome)
