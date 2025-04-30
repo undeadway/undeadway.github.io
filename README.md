@@ -34,7 +34,7 @@
 * [我的技术Demo](https://tech-demo.waygc.net)
 * [我的文字（维护中）](http://words.waygc.net)
 * [我的博客](http://site.waygc.net)
-* [我的足迹](http://footprint.waygc.net)
+* [我的足迹](http://footsteps.waygc.net)
 * [我的百度云资源](http://bdyun.waygc.net)
 
 ## 公众号
