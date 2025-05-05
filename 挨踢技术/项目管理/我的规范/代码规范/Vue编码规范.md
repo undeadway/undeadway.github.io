@@ -27,3 +27,10 @@ export default {
 	}
 }
 ```
+
+3\. 所有 Vue 组件标签，全部使用大写字母，不允许使用 `-` 模式，也即：
+
+```
+<el-table>    X
+<ElTable>    V
+```
