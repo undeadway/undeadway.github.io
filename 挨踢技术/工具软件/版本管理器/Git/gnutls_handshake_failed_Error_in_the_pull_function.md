@@ -59,7 +59,7 @@ github pages build 失败了！
 
 ![](./githubpages-build-failed.png)
 
-奇而怪之，照着提示开始拍错，又是查 Jyekvll ，又是查 github 的配置，怀疑是不是不支持 md 格式了。  
+奇而怪之，照着提示开始拍错，又是查 Jekyll ，又是查 github 的配置，怀疑是不是不支持 md 格式了。  
 总之没得出一个很好的结果，这时，看到了这么条信息。
 
 ![](./20250518115630.png)
