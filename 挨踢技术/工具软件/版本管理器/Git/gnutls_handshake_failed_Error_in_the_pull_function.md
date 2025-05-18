@@ -48,7 +48,7 @@ git clone git@gitee.com:undeadway/modell-vue2-frame.git
 完！
 
 PS1: 不过啥会发生这么个错误，还待调查  
-PS2：经过确认，这个问题只发生在我的 Deepin 上
+PS2：经过确认，这个问题只发生在我的 Deepin 上  
 PS2：因为这么一改，windows 上也得有 ssh 相关才能用，不然会出错，这个得继续研究
 
 ## 续集！
