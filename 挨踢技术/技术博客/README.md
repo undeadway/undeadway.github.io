@@ -13,7 +13,8 @@
 
 ## 博客
 
-* [git pull报错gnutls_handshake() failed: Error in the pull function](/挨踢技术/工具软件/版本管理器/Git/gnutls_handshake_failed:_Error_in_the_pull_function)
+* [Vue动态组件][/挨踢技术/前端/Vue/Vue2/Vue动态组件]
+* [git pull报错gnutls_handshake() failed: Error in the pull function](/挨踢技术/工具软件/版本管理器/Git/gnutls_handshake_failed_Error_in_the_pull_function)
 * [actionsheet数据太多时的坑](/挨踢技术/前端/Vue/uniapp/uviewui/actionsheet数据太多时的坑)
 * [CSS实现页面开合收放](/挨踢技术/前端/CSS/CSS实现页面开合收放)
 * [用 MHTML 输出 MD 的文档](./用MHTML输出MD的文档)
