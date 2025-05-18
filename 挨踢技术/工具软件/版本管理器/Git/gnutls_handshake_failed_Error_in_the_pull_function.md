@@ -79,9 +79,11 @@ github pages build 失败了！
 
 ![](./colon-in-file-name.png)
 
-我 TM 在文件里加了个`:` ！
-我 TM 在文件里加了个`:` ！
-我 TM 在文件里加了个`:` ！
+我 TM 在文件名里加了个`:` ！
+我 TM 在文件名里加了个`:` ！
+我 TM 在文件名里加了个`:` ！
+
+![](/res/xiao-cry.jpg)
 
 这时在回头看之前的那个提示
 
