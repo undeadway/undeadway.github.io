@@ -48,6 +48,8 @@
 * [global.gc的问题](/挨踢技术/nodejs/global.gc的问题)
 * [鱼与熊掌不可得兼的数据统计和图片引用（盗链）](/挨踢技术/安全/鱼与熊掌不可得兼的数据统计和图片引用_盗链)
 * [word文档转HTML的一些踩坑记录](./word文档转HTML的一些踩坑记录)
+* [fakepath的一些记录](/挨踢技术/前端/fakepath的一些记录)
+* [网页式类棋类游戏的算法心得[0]=扫雷](/挨踢技术/其他/网页游戏/网页式类棋类游戏的算法心得/扫)
 * [【Postgres】一点国际化的小坑](/挨踢技术/数据库/Postgres/一点国际化的小坑)
 * [postgres 使用 union 查询时的一个小坑](/挨踢技术/数据库/Postgres/postgres使用union查询时的一个小坑)
 * [[面向StackOverflow编程]UPDATE SELECT的结果集到数据库中](/挨踢技术/数据库/Postgres/面向StackOverflow编程_UPDATE_SELECT的结果集到数据库中)
