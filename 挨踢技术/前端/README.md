@@ -25,6 +25,7 @@
 * [jQuery](./jQuery)
 	* [Layui](./jQuery/Layui)
 * [Angular](./Angular)
+* [Fultter](./Fultter)
 * [codemirror](./codemirror)
 * [echarts](./echarts)
 * [fontawesome](./fontawesome)
