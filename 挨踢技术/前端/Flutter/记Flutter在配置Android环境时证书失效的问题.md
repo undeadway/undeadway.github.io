@@ -6,7 +6,7 @@
 
 ![](./flutter-licenses-nolonger-needed.png)
 
-首先就是很奇怪的问题，按理说执行 `flutter doctor --android-licenses` 之后，应该出现一堆 Y 让我来选，但现在贴提示 `--licenses` 不用了？
+首先就是很奇怪的问题，按理说执行 `flutter doctor --android-licenses` 之后，应该出现一堆内容，让我来按 Y 继续，但现在贴提示 `--licenses` 不用了？
 
 于是理所当然的，在我按下 `flutter doctor -v` 之后，显示 Anrdoid toolchan 出错了。但显示 `flutter doctor --android-licenses` 未知，让我执行 `flutter doctor --android-licenses` 。
 
