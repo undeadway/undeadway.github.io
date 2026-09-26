@@ -25,6 +25,7 @@
 ## 技术类
 
 ### 各种文章
+
 * [【日翻】【关于数据库客户端工具的争论】即便如此，我依然选择使用 DBeaver](./【关于数据库客户端工具的争论】即便如此我依然选择使用DBeaver)
 * [什么是规范化？](./什么是规范)
 * [【英翻】Flux：动作（Actions）和分发器（Dispatcher）](./flux-actions-and-the-dispatcher)
