@@ -33,4 +33,5 @@ nodejs 也还不完善，所以如果想要用它开发一个应用程序，那�
 
 ## 原文
 
-[https://www.sitepoint.com/node-js-is-the-new-black/](https://www.sitepoint.com/node-js-is-the-new-black/)
+~~https://www.sitepoint.com/node-js-is-the-new-black/~~ 原始地址挂了，备用地址：
+[https://web.archive.org/web/20110717112931/http://www.sitepoint.com/node-js-is-the-new-black/](https://web.archive.org/web/20110717112931/http://www.sitepoint.com/node-js-is-the-new-black/)
