@@ -75,7 +75,7 @@
 ## 翻译
 
 * [【日翻】【关于数据库客户端工具的争论】即便如此，我依然选择使用 DBeaver](/外语学习/我的翻译/【关于数据库客户端工具的争论】即便如此我依然选择使用DBeaver)
-* [【英翻】什么是规范化？](/外语学习/我的翻译/什么是规范化)
+* [【英翻】什么是规范化？](https://mp.weixin.qq.com/s/v6oYogCxDeuLRVIxoe_1Zw)
 * [【英翻】Flux：动作（Actions）和分发器（Dispatcher）](/外语学习/我的翻译/flux-actions-and-the-dispatcher)
 * [【英翻】Node.js突然流行（Node.js is the New Black）](/外语学习/我的翻译/node-js-is-the-new-black)
 * [【日翻】[节译]maven 的第一步](https://mp.weixin.qq.com/s?__biz=MzI3NjE5NDc1NQ%3D%3D&mid=2654408488&idx=1&sn=2f3af40f9019d68fdcf9c59ec617b114&scene=45#wechat_redirect)
